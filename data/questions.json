@@ -1,0 +1,2221 @@
+{
+  "title": "iPAS AI 應用規劃師(初級) 模擬考",
+  "questionCount": 55,
+  "syllabusMap": [
+    {
+      "id": "L11101",
+      "count": 3
+    },
+    {
+      "id": "L11102",
+      "count": 5
+    },
+    {
+      "id": "L11203",
+      "count": 5
+    },
+    {
+      "id": "L11301",
+      "count": 3
+    },
+    {
+      "id": "L11302",
+      "count": 5
+    },
+    {
+      "id": "L11401",
+      "count": 4
+    },
+    {
+      "id": "L11402",
+      "count": 3
+    },
+    {
+      "id": "L12101",
+      "count": 3
+    },
+    {
+      "id": "L12102",
+      "count": 3
+    },
+    {
+      "id": "L12201",
+      "count": 4
+    },
+    {
+      "id": "L12202",
+      "count": 6
+    },
+    {
+      "id": "L12301",
+      "count": 3
+    },
+    {
+      "id": "L12302",
+      "count": 3
+    },
+    {
+      "id": "L12303",
+      "count": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "sequence": 1,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11101",
+      "questionHtml": "根據 <strong style=\"color: red;\">Alan Turing</strong> 的定義，<strong style=\"color: blue;\">圖靈測試</strong> 的核心在於評估機器的？",
+      "questionText": "根據 Alan Turing 的定義，圖靈測試 的核心在於評估機器的？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "計算能力",
+          "text": "計算能力",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "儲存能力",
+          "text": "儲存能力",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">模仿人類行為</strong>並使人<strong style=\"background-color: #ffff0030;\">無法區分</strong>的能力",
+          "text": "模仿人類行為並使人無法區分的能力",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "自我學習能力",
+          "text": "自我學習能力",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11101</strong>。<strong style=\"color: blue;\">圖靈測試</strong>旨在測試機器是否能展現出與人類<strong style=\"background-color: #ffff0030;\">無法區分</strong>的對話行為，重點在於<strong style=\"background-color: #ffff0030;\">行為的模仿</strong>，而非其內部計算、儲存或學習機制。",
+      "explanationText": "(C) 正確。參考L11101。圖靈測試旨在測試機器是否能展現出與人類無法區分的對話行為，重點在於行為的模仿，而非其內部計算、儲存或學習機制。"
+    },
+    {
+      "id": "Q02",
+      "sequence": 2,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11101",
+      "questionHtml": "像 <strong style=\"color: red;\">Netflix</strong> 電影推薦系統或 <strong style=\"color: red;\">Spotify</strong> 音樂推薦系統，屬於<strong style=\"color: purple;\">AI</strong>的哪個分類？",
+      "questionText": "像 Netflix 電影推薦系統或 Spotify 音樂推薦系統，屬於AI的哪個分類？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">弱人工智慧</strong> (<strong style=\"color: red;\">Narrow AI</strong>)",
+          "text": "弱人工智慧 (Narrow AI)",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">通用人工智慧</strong> (<strong style=\"color: purple;\">AGI</strong>)",
+          "text": "通用人工智慧 (AGI)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">超級人工智慧</strong> (<strong style=\"color: red;\">ASI</strong>)",
+          "text": "超級人工智慧 (ASI)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "符號式人工智慧 (<strong style=\"color: red;\">Symbolic AI</strong>)",
+          "text": "符號式人工智慧 (Symbolic AI)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L11101</strong>。<strong style=\"color: blue;\">弱人工智慧</strong>指的是<strong style=\"background-color: #ffff0030;\">專精於執行特定任務</strong>的<strong style=\"color: purple;\">AI</strong>。<strong style=\"color: blue;\">推薦系統</strong>專注於根據用戶偏好推薦內容，屬於此類。<strong style=\"color: purple;\">AGI</strong>具備廣泛認知能力，<strong style=\"color: red;\">ASI</strong>超越人類智能，目前皆未實現。",
+      "explanationText": "(A) 正確。參考L11101。弱人工智慧指的是專精於執行特定任務的AI。推薦系統專注於根據用戶偏好推薦內容，屬於此類。AGI具備廣泛認知能力，ASI超越人類智能，目前皆未實現。"
+    },
+    {
+      "id": "Q03",
+      "sequence": 3,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11101",
+      "questionHtml": "下列何者最接近<strong style=\"color: blue;\">通用人工智慧</strong> (<strong style=\"color: purple;\">AGI</strong>) 的概念？",
+      "questionText": "下列何者最接近通用人工智慧 (AGI) 的概念？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "一個專門下圍棋的程式 (<strong style=\"color: red;\">AlphaGo</strong>)",
+          "text": "一個專門下圍棋的程式 (AlphaGo)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "一個能夠<strong style=\"background-color: #ffff0030;\">理解、學習並應用知識</strong>於<strong style=\"background-color: #ffff0030;\">不同領域</strong>的系統，如同人類一般",
+          "text": "一個能夠理解、學習並應用知識於不同領域的系統，如同人類一般",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "一個用於自動駕駛的<strong style=\"color: blue;\">電腦視覺</strong>系統",
+          "text": "一個用於自動駕駛的電腦視覺系統",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "一個回答特定產品問題的<strong style=\"color: blue;\">聊天機器人</strong>",
+          "text": "一個回答特定產品問題的聊天機器人",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11101</strong>。<strong style=\"color: blue;\">通用人工智慧</strong> (<strong style=\"color: purple;\">AGI</strong>)\n                        的核心特徵是其<strong style=\"background-color: #ffff0030;\">跨領域的通用性</strong>和<strong style=\"background-color: #ffff0030;\">類人</strong>的<strong style=\"color: blue;\">學習</strong>與<strong style=\"color: blue;\">應用</strong>能力，而非侷限於特定任務。<br>(A)、(C)、(D) 均為<strong style=\"color: blue;\">弱人工智慧</strong>的範例，專精於特定任務。",
+      "explanationText": "(B) 正確。參考L11101。通用人工智慧 (AGI) 的核心特徵是其跨領域的通用性和類人的學習與應用能力，而非侷限於特定任務。(A)、(C)、(D) 均為弱人工智慧的範例，專精於特定任務。"
+    },
+    {
+      "id": "Q04",
+      "sequence": 4,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11102",
+      "questionHtml": "<strong style=\"color: blue;\">歐盟 AI 法案</strong> (<strong style=\"color: purple;\">EU AI Act</strong>) 的主要立法目標<strong style=\"color: red;\">不包含</strong>下列何者？",
+      "questionText": "歐盟 AI 法案 (EU AI Act) 的主要立法目標不包含下列何者？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"background-color: #ffff0030;\">促進 AI 創新</strong>",
+          "text": "促進 AI 創新",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">確保 AI 可信賴</strong>",
+          "text": "確保 AI 可信賴",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">統一全球 AI 監管標準</strong>",
+          "text": "統一全球 AI 監管標準",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"background-color: #ffff0030;\">保護基本人權</strong>",
+          "text": "保護基本人權",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 不包含。參考<strong style=\"color: red;\">L11102</strong>。雖然<strong style=\"color: blue;\">歐盟 AI\n                            法案</strong>具有<strong style=\"color: blue;\">域外效力</strong>，影響全球企業，但其<strong style=\"color: blue;\">立法目標</strong>是<strong style=\"color: blue;\">規範歐盟市場</strong>內的<strong style=\"color: purple;\">AI</strong>應用，<strong style=\"background-color: #ffff0030;\">並未設定統一全球標準</strong>的目標。(A)、(B)、(D) 均為其<strong style=\"color: blue;\">明確的立法目標</strong>。",
+      "explanationText": "(C) 不包含。參考L11102。雖然歐盟 AI 法案具有域外效力，影響全球企業，但其立法目標是規範歐盟市場內的AI應用，並未設定統一全球標準的目標。(A)、(B)、(D) 均為其明確的立法目標。"
+    },
+    {
+      "id": "Q05",
+      "sequence": 5,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11102",
+      "questionHtml": "在<strong style=\"color: blue;\">歐盟 AI 法案</strong>的風險分類中，用於<strong style=\"color: blue;\">關鍵基礎設施</strong>（如交通、能源）管理的<strong style=\"color: purple;\">AI</strong>系統通常被歸類為？",
+      "questionText": "在歐盟 AI 法案的風險分類中，用於關鍵基礎設施（如交通、能源）管理的AI系統通常被歸類為？",
+      "mediaHtml": [
+        "<img src=\"../image/AI%20ACT.webp\" class=\"responsive-img\">"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">禁止風險</strong> (<strong style=\"color: red;\">Unacceptable risk</strong>)",
+          "text": "禁止風險 (Unacceptable risk)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">高風險</strong> (<strong style=\"color: red;\">High-risk</strong>)",
+          "text": "高風險 (High-risk)",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">受限風險</strong> (<strong style=\"color: red;\">Limited risk</strong>)",
+          "text": "受限風險 (Limited risk)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">最低風險</strong> (<strong style=\"color: red;\">Minimal risk</strong>)",
+          "text": "最低風險 (Minimal risk)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11102</strong>。<strong style=\"color: blue;\">歐盟 AI\n                            法案</strong>將可能對<strong style=\"color: blue;\">健康、安全</strong>或<strong style=\"color: blue;\">基本權利</strong>產生<strong style=\"color: blue;\">重大風險</strong>的<strong style=\"color: purple;\">AI</strong>應用列為<strong style=\"color: blue;\">高風險</strong>，<strong style=\"background-color: #ffff0030;\">關鍵基礎設施管理</strong>即為其中一例。這類系統需要遵守最嚴格的<strong style=\"color: blue;\">合規要求</strong>。",
+      "explanationText": "(B) 正確。參考L11102。歐盟 AI 法案將可能對健康、安全或基本權利產生重大風險的AI應用列為高風險，關鍵基礎設施管理即為其中一例。這類系統需要遵守最嚴格的合規要求。"
+    },
+    {
+      "id": "Q06",
+      "sequence": 6,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11102",
+      "questionHtml": "若一家公司開發的<strong style=\"color: blue;\">聊天機器人</strong> (<strong style=\"color: red;\">Chatbot</strong>) 在<strong style=\"color: blue;\">歐盟</strong>市場提供服務，根據<strong style=\"color: blue;\">歐盟 AI 法案</strong>，該公司最主要的義務是？",
+      "questionText": "若一家公司開發的聊天機器人 (Chatbot) 在歐盟市場提供服務，根據歐盟 AI 法案，該公司最主要的義務是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "進行全面的<strong style=\"color: blue;\">風險管理評估</strong>",
+          "text": "進行全面的風險管理評估",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "確保<strong style=\"color: blue;\">數據品質</strong>達到最高標準",
+          "text": "確保數據品質達到最高標準",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "履行<strong style=\"background-color: #ffff0030;\">透明度義務</strong>，告知用戶正在與\n                            <strong style=\"color: purple;\">AI</strong> 互動",
+          "text": "履行透明度義務，告知用戶正在與 AI 互動",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "禁止該<strong style=\"color: blue;\">聊天機器人</strong>在歐盟使用",
+          "text": "禁止該聊天機器人在歐盟使用",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11102</strong>。<strong style=\"color: blue;\">聊天機器人</strong>通常被歸類為<strong style=\"color: blue;\">受限風險</strong> (<strong style=\"color: red;\">Limited risk</strong>)。此類別<strong style=\"color: purple;\">AI</strong>系統的主要義務是<strong style=\"background-color: #ffff0030;\">確保透明度</strong>，必須<strong style=\"background-color: #ffff0030;\">明確告知</strong>使用者他們正在與一個<strong style=\"color: purple;\">AI</strong>系統互動，而不是人類。<br>(A) 和 (B) 是<strong style=\"color: blue;\">高風險\n                            AI</strong> 的主要義務。<br>(D) <strong style=\"color: blue;\">聊天機器人</strong>並非<strong style=\"color: blue;\">禁止類 AI</strong>。",
+      "explanationText": "(C) 正確。參考L11102。聊天機器人通常被歸類為受限風險 (Limited risk)。此類別AI系統的主要義務是確保透明度，必須明確告知使用者他們正在與一個AI系統互動，而不是人類。(A) 和 (B) 是高風險 AI 的主要義務。(D) 聊天機器人並非禁止類 AI。"
+    },
+    {
+      "id": "Q07",
+      "sequence": 7,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11102",
+      "questionHtml": "根據<strong style=\"color: blue;\">歐盟 AI 法案</strong>，若企業違反<strong style=\"color: blue;\">禁止類 AI</strong>的規定，可能面臨的最高罰款為？",
+      "questionText": "根據歐盟 AI 法案，若企業違反禁止類 AI的規定，可能面臨的最高罰款為？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "1000 萬歐元或全球年營業額的 2%",
+          "text": "1000 萬歐元或全球年營業額的 2%",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "2000 萬歐元或全球年營業額的 4%",
+          "text": "2000 萬歐元或全球年營業額的 4%",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">3500 萬歐元</strong>或全球年營業額的\n                            <strong style=\"background-color: #ffff0030;\">7%</strong>（取其高者）",
+          "text": "3500 萬歐元或全球年營業額的 7%（取其高者）",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "5000 萬歐元或全球年營業額的 10%",
+          "text": "5000 萬歐元或全球年營業額的 10%",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11102</strong>。違反<strong style=\"color: blue;\">禁止類\n                            AI</strong>（如<strong style=\"color: blue;\">社會信用評分</strong>、<strong style=\"color: blue;\">心理操控</strong>）的規定屬於最嚴重的情況，將面臨最高級別的罰款，即<strong style=\"background-color: #ffff0030;\">3500 萬歐元</strong>或企業<strong style=\"background-color: #ffff0030;\">全球年營業額的 7%</strong>，以<strong style=\"color: blue;\">較高者</strong>為準。其他風險級別的違規罰款較低。",
+      "explanationText": "(C) 正確。參考L11102。違反禁止類 AI（如社會信用評分、心理操控）的規定屬於最嚴重的情況，將面臨最高級別的罰款，即3500 萬歐元或企業全球年營業額的 7%，以較高者為準。其他風險級別的違規罰款較低。"
+    },
+    {
+      "id": "Q08",
+      "sequence": 8,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11102",
+      "questionHtml": "下列何者是<strong style=\"color: blue;\">歐盟 AI 法案</strong>針對<strong style=\"color: blue;\">高風險 AI</strong>系統提出的<strong style=\"color: blue;\">合規要求</strong>之一？",
+      "questionText": "下列何者是歐盟 AI 法案針對高風險 AI系統提出的合規要求之一？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "建立並維護<strong style=\"background-color: #ffff0030;\">風險管理系統</strong>",
+          "text": "建立並維護風險管理系統",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "僅需在使用前告知用戶",
+          "text": "僅需在使用前告知用戶",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "必須將原始程式碼開源",
+          "text": "必須將原始程式碼開源",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "不需要人類監督",
+          "text": "不需要人類監督",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L11102</strong>。<strong style=\"color: blue;\">高風險\n                            AI</strong>系統需要遵守一系列嚴格的<strong style=\"color: blue;\">合規要求</strong>，其中包括：建立<strong style=\"background-color: #ffff0030;\">風險管理系統</strong>、確保<strong style=\"color: blue;\">高數據品質</strong>、詳細的<strong style=\"color: blue;\">技術文件</strong>、<strong style=\"color: blue;\">記錄保存</strong>、<strong style=\"color: blue;\">透明度</strong>與<strong style=\"color: blue;\">資訊提供</strong>、適當的<strong style=\"background-color: #ffff0030;\">人類監督</strong>，以及<strong style=\"color: blue;\">穩健性</strong>、<strong style=\"color: blue;\">準確性</strong>和<strong style=\"color: blue;\">安全性</strong>。<br>\n                        (B) 僅告知是用於<strong style=\"color: blue;\">受限風險 AI</strong>。<br>\n                        (C) 法案未強制要求開源。<br>\n                        (D) <strong style=\"color: blue;\">高風險 AI</strong> 強調需要<strong style=\"color: blue;\">人類監督</strong>。",
+      "explanationText": "(A) 正確。參考L11102。高風險 AI系統需要遵守一系列嚴格的合規要求，其中包括：建立風險管理系統、確保高數據品質、詳細的技術文件、記錄保存、透明度與資訊提供、適當的人類監督，以及穩健性、準確性和安全性。 (B) 僅告知是用於受限風險 AI。 (C) 法案未強制要求開源。 (D) 高風險 AI 強調需要人類監督。"
+    },
+    {
+      "id": "Q09",
+      "sequence": 9,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11203",
+      "questionHtml": "一種透過<strong style=\"background-color: #ffff0030;\">加密受害者檔案</strong>，並要求支付<strong style=\"color: blue;\">贖金</strong>才能解密的<strong style=\"color: blue;\">惡意軟體</strong>，被稱為什麼？",
+      "questionText": "一種透過加密受害者檔案，並要求支付贖金才能解密的惡意軟體，被稱為什麼？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">間諜軟體</strong> (<strong style=\"color: red;\">Spyware</strong>)",
+          "text": "間諜軟體 (Spyware)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">木馬程式</strong> (<strong style=\"color: red;\">Trojan Horse</strong>)",
+          "text": "木馬程式 (Trojan Horse)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">勒索軟體</strong> (<strong style=\"color: red;\">Ransomware</strong>)",
+          "text": "勒索軟體 (Ransomware)",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">蠕蟲</strong> (<strong style=\"color: red;\">Worm</strong>)",
+          "text": "蠕蟲 (Worm)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11203</strong>。<strong style=\"color: blue;\">勒索軟體</strong>的<strong style=\"color: blue;\">典型特徵</strong>就是<strong style=\"background-color: #ffff0030;\">加密</strong>受害者的<strong style=\"color: blue;\">重要檔案</strong>，使其無法存取，然後<strong style=\"background-color: #ffff0030;\">要求支付贖金</strong>（通常是<strong style=\"color: blue;\">加密貨幣</strong>）以換取<strong style=\"color: blue;\">解密金鑰</strong>。<br>\n                        (A) <strong style=\"color: blue;\">間諜軟體</strong>主要目的是<strong style=\"color: blue;\">秘密收集</strong>使用者資訊。<br>\n                        (B) <strong style=\"color: blue;\">木馬程式</strong>偽裝成<strong style=\"color: blue;\">合法軟體</strong>，誘騙使用者執行，以<strong style=\"color: blue;\">植入後門</strong>或<strong style=\"color: blue;\">竊取資料</strong>。<br>\n                        (D) <strong style=\"color: blue;\">蠕蟲</strong>是能<strong style=\"color: blue;\">自我複製</strong>並透過<strong style=\"color: blue;\">網路</strong>傳播的惡意程式。",
+      "explanationText": "(C) 正確。參考L11203。勒索軟體的典型特徵就是加密受害者的重要檔案，使其無法存取，然後要求支付贖金（通常是加密貨幣）以換取解密金鑰。 (A) 間諜軟體主要目的是秘密收集使用者資訊。 (B) 木馬程式偽裝成合法軟體，誘騙使用者執行，以植入後門或竊取資料。 (D) 蠕蟲是能自我複製並透過網路傳播的惡意程式。"
+    },
+    {
+      "id": "Q10",
+      "sequence": 10,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11203",
+      "questionHtml": "駭客利用<strong style=\"color: blue;\">尚未被軟體開發商發現或修補</strong>的<strong style=\"color: blue;\">安全漏洞</strong>發動攻擊，這種攻擊稱為什麼？",
+      "questionText": "駭客利用尚未被軟體開發商發現或修補的安全漏洞發動攻擊，這種攻擊稱為什麼？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: purple;\">DDoS</strong> 攻擊",
+          "text": "DDoS 攻擊",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">中間人攻擊</strong> (<strong style=\"color: purple;\">MitM</strong>)",
+          "text": "中間人攻擊 (MitM)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">零日攻擊</strong> (<strong style=\"color: red;\">Zero-Day Exploit</strong>)",
+          "text": "零日攻擊 (Zero-Day Exploit)",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">網路釣魚</strong> (<strong style=\"color: red;\">Phishing</strong>)",
+          "text": "網路釣魚 (Phishing)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11203</strong>。<strong style=\"color: blue;\">零日攻擊</strong>\n                        (<strong style=\"color: red;\">Zero-Day</strong>) 指的就是利用一個<strong style=\"background-color: #ffff0030;\">軟體或硬體中已知但尚未被修補</strong>（開發商還沒有發布修補程式，或者用戶尚未安裝）的<strong style=\"color: blue;\">安全漏洞</strong> (<strong style=\"color: red;\">Vulnerability</strong>)\n                        進行的攻擊。\"零日\"指的是開發商<strong style=\"color: blue;\">沒有時間</strong>（零天）來應對這個威脅。",
+      "explanationText": "(C) 正確。參考L11203。零日攻擊 (Zero-Day) 指的就是利用一個軟體或硬體中已知但尚未被修補（開發商還沒有發布修補程式，或者用戶尚未安裝）的安全漏洞 (Vulnerability) 進行的攻擊。\"零日\"指的是開發商沒有時間（零天）來應對這個威脅。"
+    },
+    {
+      "id": "Q11",
+      "sequence": 11,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11203",
+      "questionHtml": "攻擊者在使用者瀏覽的<strong style=\"color: blue;\">網頁中注入惡意</strong> <strong style=\"color: red;\">JavaScript</strong> <strong style=\"color: blue;\">腳本</strong>，當其他使用者瀏覽該網頁時，腳本會在其瀏覽器中執行，可能用於<strong style=\"color: blue;\">竊取</strong> <strong style=\"color: red;\">Cookie</strong> 或<strong style=\"color: blue;\">會話資訊</strong>。這是哪種攻擊？",
+      "questionText": "攻擊者在使用者瀏覽的網頁中注入惡意 JavaScript 腳本，當其他使用者瀏覽該網頁時，腳本會在其瀏覽器中執行，可能用於竊取 Cookie 或會話資訊。這是哪種攻擊？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: purple;\">SQL Injection</strong> (<strong style=\"color: purple;\">SQL</strong> 注入)",
+          "text": "SQL Injection (SQL 注入)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: purple;\">XSS</strong> (<strong style=\"color: blue;\">跨網站指令碼攻擊</strong>)",
+          "text": "XSS (跨網站指令碼攻擊)",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: purple;\">DNS Spoofing</strong> (<strong style=\"color: purple;\">DNS</strong> 欺騙)",
+          "text": "DNS Spoofing (DNS 欺騙)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">側信道攻擊</strong> (<strong style=\"color: red;\">Side-Channel Attack</strong>)",
+          "text": "側信道攻擊 (Side-Channel Attack)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11203</strong>。<strong style=\"color: purple;\">XSS</strong>\n                        攻擊的<strong style=\"color: blue;\">核心</strong>就是<strong style=\"background-color: #ffff0030;\">將惡意腳本注入到受信任的網站</strong>中。當其他用戶訪問該網站時，這些腳本會在用戶的瀏覽器上執行，使得攻擊者能夠<strong style=\"color: blue;\">繞過同源策略</strong> (<strong style=\"color: red;\">Same-Origin\n                            Policy</strong>)，<strong style=\"background-color: #ffff0030;\">竊取用戶的 <strong style=\"color: red;\">Cookie</strong>、<strong style=\"color: red;\">Session\n                                Token</strong></strong> 或執行其他惡意操作。<br>\n                        (A) <strong style=\"color: purple;\">SQL Injection</strong> 是針對<strong style=\"color: blue;\">後端資料庫</strong>的攻擊。<br>\n                        (C) <strong style=\"color: purple;\">DNS Spoofing</strong> 是<strong style=\"color: blue;\">篡改\n                            <strong style=\"color: purple;\">DNS</strong> 紀錄</strong>，將用戶導向<strong style=\"color: blue;\">假網站</strong>。<br>\n                        (D) <strong style=\"color: blue;\">側信道攻擊</strong>是利用<strong style=\"color: blue;\">硬體洩漏</strong>的資訊。",
+      "explanationText": "(B) 正確。參考L11203。XSS 攻擊的核心就是將惡意腳本注入到受信任的網站中。當其他用戶訪問該網站時，這些腳本會在用戶的瀏覽器上執行，使得攻擊者能夠繞過同源策略 (Same-Origin Policy)，竊取用戶的 Cookie、Session Token 或執行其他惡意操作。 (A) SQL Injection 是針對後端資料庫的攻擊。 (C) DNS Spoofing 是篡改 DNS 紀錄，將用戶導向假網站。 (D) 側信道攻擊是利用硬體洩漏的資訊。"
+    },
+    {
+      "id": "Q12",
+      "sequence": 12,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11203",
+      "questionHtml": "下列何者屬於<strong style=\"color: blue;\">社交工程攻擊</strong> (<strong style=\"color: red;\">Social Engineering Attacks</strong>) 的範疇？",
+      "questionText": "下列何者屬於社交工程攻擊 (Social Engineering Attacks) 的範疇？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "利用<strong style=\"color: blue;\">軟體漏洞</strong>植入<strong style=\"color: blue;\">惡意軟體</strong>",
+          "text": "利用軟體漏洞植入惡意軟體",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">假冒 IT\n                                人員</strong>打電話給員工，<strong style=\"background-color: #ffff0030;\">騙取</strong>其登入<strong style=\"color: blue;\">密碼</strong>",
+          "text": "假冒 IT 人員打電話給員工，騙取其登入密碼",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "發動<strong style=\"color: purple;\">DDoS</strong>攻擊癱瘓伺服器",
+          "text": "發動DDoS攻擊癱瘓伺服器",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "透過<strong style=\"color: blue;\">攔截網路流量</strong>竊取未加密資訊",
+          "text": "透過攔截網路流量竊取未加密資訊",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11203</strong>。<strong style=\"color: blue;\">社交工程攻擊</strong>的核心是<strong style=\"background-color: #ffff0030;\">利用人性的弱點、信任或慣性</strong>來<strong style=\"color: blue;\">騙取資訊</strong>或<strong style=\"color: blue;\">誘使目標執行特定動作</strong>，而非直接利用技術漏洞。<strong style=\"background-color: #ffff0030;\">假冒身份</strong> (<strong style=\"color: red;\">Pretexting</strong>) 並<strong style=\"color: blue;\">騙取密碼</strong>是典型的社交工程手法。<br>\n                        (A), (C), (D) 屬於<strong style=\"color: blue;\">技術型攻擊</strong>的範疇。",
+      "explanationText": "(B) 正確。參考L11203。社交工程攻擊的核心是利用人性的弱點、信任或慣性來騙取資訊或誘使目標執行特定動作，而非直接利用技術漏洞。假冒身份 (Pretexting) 並騙取密碼是典型的社交工程手法。 (A), (C), (D) 屬於技術型攻擊的範疇。"
+    },
+    {
+      "id": "Q13",
+      "sequence": 13,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11203",
+      "questionHtml": "駭客控制了<strong style=\"color: blue;\">大量</strong>被感染的電腦（稱為<strong style=\"color: blue;\">殭屍電腦</strong>），並利用這些電腦<strong style=\"color: blue;\">同時</strong>向目標伺服器發送<strong style=\"color: blue;\">大量請求</strong>，導致伺服器癱瘓，無法回應正常用戶。這描述的是哪種攻擊？",
+      "questionText": "駭客控制了大量被感染的電腦（稱為殭屍電腦），並利用這些電腦同時向目標伺服器發送大量請求，導致伺服器癱瘓，無法回應正常用戶。這描述的是哪種攻擊？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">零日攻擊</strong> (<strong style=\"color: red;\">Zero-Day Exploit</strong>)",
+          "text": "零日攻擊 (Zero-Day Exploit)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">勒索軟體</strong> (<strong style=\"color: red;\">Ransomware</strong>)",
+          "text": "勒索軟體 (Ransomware)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: purple;\">SQL Injection</strong>",
+          "text": "SQL Injection",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: purple;\">DDoS</strong> 攻擊 (<strong style=\"color: red;\">Distributed Denial of Service</strong>)",
+          "text": "DDoS 攻擊 (Distributed Denial of Service)",
+          "isCorrect": true
+        }
+      ],
+      "correctOption": "D",
+      "explanationHtml": "(D) 正確。參考<strong style=\"color: red;\">L11203</strong>。<strong style=\"color: purple;\">DDoS</strong> 攻擊的<strong style=\"color: blue;\">特徵</strong>就是利用<strong style=\"color: blue;\">分散式</strong>（Distributed）的來源（通常是<strong style=\"color: blue;\">殭屍網路</strong> <strong style=\"color: red;\">Botnet</strong>）<strong style=\"background-color: #ffff0030;\">同時發起大量無效或惡意請求</strong>，耗盡目標伺服器的<strong style=\"color: blue;\">資源</strong>（如<strong style=\"color: blue;\">頻寬</strong>、<strong style=\"color: blue;\">處理能力</strong>），使其<strong style=\"background-color: #ffff0030;\">無法提供正常服務</strong>（Denial of Service）。",
+      "explanationText": "(D) 正確。參考L11203。DDoS 攻擊的特徵就是利用分散式（Distributed）的來源（通常是殭屍網路 Botnet）同時發起大量無效或惡意請求，耗盡目標伺服器的資源（如頻寬、處理能力），使其無法提供正常服務（Denial of Service）。"
+    },
+    {
+      "id": "Q14",
+      "sequence": 14,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11301",
+      "questionHtml": "<strong style=\"color: blue;\">機器學習</strong> (<strong style=\"color: red;\">Machine Learning</strong>) 的核心概念是讓電腦系統能夠？",
+      "questionText": "機器學習 (Machine Learning) 的核心概念是讓電腦系統能夠？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "執行人類編寫的所有指令",
+          "text": "執行人類編寫的所有指令",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">從資料中學習</strong>模式或規律，<strong style=\"background-color: #ffff0030;\">無需明確編碼</strong>規則",
+          "text": "從資料中學習模式或規律，無需明確編碼規則",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "擁有與人類同等的自我意識",
+          "text": "擁有與人類同等的自我意識",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "進行最快速的數學運算",
+          "text": "進行最快速的數學運算",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11301</strong>。<strong style=\"color: blue;\">機器學習</strong>的<strong style=\"color: blue;\">定義</strong>就是讓電腦系統<strong style=\"background-color: #ffff0030;\">具備從資料中學習的能力</strong>，透過分析<strong style=\"color: blue;\">大量數據</strong>找出其中的<strong style=\"color: blue;\">模式</strong> (<strong style=\"color: red;\">Pattern</strong>)，並利用這些模式來做出<strong style=\"color: blue;\">預測</strong>或<strong style=\"color: blue;\">決策</strong>，而<strong style=\"color: red;\">不是</strong>依賴開發者<strong style=\"background-color: #ffff0030;\">明確寫死所有規則</strong>。<br>(A) 是一般程式設計的概念。<br>(C) 是<strong style=\"color: blue;\">強人工智慧</strong>的範疇，目前<strong style=\"color: purple;\">ML</strong>尚未達到。<br>(D) 計算速度是電腦的基本能力，非<strong style=\"color: purple;\">ML</strong>的核心定義。",
+      "explanationText": "(B) 正確。參考L11301。機器學習的定義就是讓電腦系統具備從資料中學習的能力，透過分析大量數據找出其中的模式 (Pattern)，並利用這些模式來做出預測或決策，而不是依賴開發者明確寫死所有規則。(A) 是一般程式設計的概念。(C) 是強人工智慧的範疇，目前ML尚未達到。(D) 計算速度是電腦的基本能力，非ML的核心定義。"
+    },
+    {
+      "id": "Q15",
+      "sequence": 15,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11301",
+      "questionHtml": "在<strong style=\"color: blue;\">機器學習</strong>流程中，<strong style=\"color: blue;\">資料預處理</strong> (<strong style=\"color: red;\">Data Preprocessing</strong>)\n                    的目的<strong style=\"color: red;\">不包含</strong>下列何者？",
+      "questionText": "在機器學習流程中，資料預處理 (Data Preprocessing) 的目的不包含下列何者？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"background-color: #ffff0030;\">清理資料</strong>中的<strong style=\"color: blue;\">雜訊</strong>或<strong style=\"color: blue;\">缺失值</strong>",
+          "text": "清理資料中的雜訊或缺失值",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "移除<strong style=\"background-color: #ffff0030;\">異常值</strong> (<strong style=\"color: red;\">Outliers</strong>)",
+          "text": "移除異常值 (Outliers)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "對資料進行<strong style=\"background-color: #ffff0030;\">標準化</strong> (<strong style=\"color: red;\">Standardization</strong>) 或<strong style=\"color: blue;\">正規化</strong>\n                            (<strong style=\"color: red;\">Normalization</strong>)",
+          "text": "對資料進行標準化 (Standardization) 或正規化 (Normalization)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "直接<strong style=\"background-color: #ffff0030;\">訓練模型</strong>並<strong style=\"color: blue;\">評估效能</strong>",
+          "text": "直接訓練模型並評估效能",
+          "isCorrect": true
+        }
+      ],
+      "correctOption": "D",
+      "explanationHtml": "(D) 不包含。參考<strong style=\"color: red;\">L11301</strong>。<strong style=\"color: blue;\">資料預處理</strong>是<strong style=\"color: blue;\">模型訓練之前</strong>的<strong style=\"color: blue;\">準備步驟</strong>，目的是<strong style=\"background-color: #ffff0030;\">提升資料品質</strong>，確保資料適合模型學習。<strong style=\"background-color: #ffff0030;\">訓練模型</strong>和<strong style=\"color: blue;\">評估效能</strong>是<strong style=\"color: blue;\">預處理之後</strong>的步驟。<br>(A),\n                        (B), (C) 都是<strong style=\"color: blue;\">資料預處理</strong>的常見工作，旨在處理資料的不一致、異常和尺度差異。",
+      "explanationText": "(D) 不包含。參考L11301。資料預處理是模型訓練之前的準備步驟，目的是提升資料品質，確保資料適合模型學習。訓練模型和評估效能是預處理之後的步驟。(A), (B), (C) 都是資料預處理的常見工作，旨在處理資料的不一致、異常和尺度差異。"
+    },
+    {
+      "id": "Q16",
+      "sequence": 16,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11301",
+      "questionHtml": "<strong style=\"color: blue;\">特徵工程</strong> (<strong style=\"color: red;\">Feature Engineering</strong>) 在<strong style=\"color: blue;\">機器學習</strong>中扮演什麼角色？",
+      "questionText": "特徵工程 (Feature Engineering) 在機器學習中扮演什麼角色？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "收集原始資料",
+          "text": "收集原始資料",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "選擇最終要使用的<strong style=\"color: blue;\">機器學習演算法</strong>",
+          "text": "選擇最終要使用的機器學習演算法",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">篩選</strong>、<strong style=\"background-color: #ffff0030;\">轉換</strong>或<strong style=\"background-color: #ffff0030;\">創造</strong>出對模型<strong style=\"color: blue;\">更有預測力</strong>的<strong style=\"color: blue;\">輸入特徵</strong>",
+          "text": "篩選、轉換或創造出對模型更有預測力的輸入特徵",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "將訓練好的模型部署到<strong style=\"color: blue;\">實際應用環境</strong>",
+          "text": "將訓練好的模型部署到實際應用環境",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11301</strong>。<strong style=\"color: blue;\">特徵工程</strong>是<strong style=\"color: blue;\">機器學習</strong>流程中非常重要的一環，涉及<strong style=\"background-color: #ffff0030;\">利用領域知識</strong>來<strong style=\"color: blue;\">選擇</strong>最有用的原始特徵、<strong style=\"color: blue;\">轉換</strong>現有特徵（例如取對數、平方）或<strong style=\"color: blue;\">創建</strong>新的組合特徵，目的是<strong style=\"background-color: #ffff0030;\">提取更有效的信息</strong>，以<strong style=\"color: blue;\">提高模型的預測準確性</strong>和<strong style=\"color: blue;\">效能</strong>。",
+      "explanationText": "(C) 正確。參考L11301。特徵工程是機器學習流程中非常重要的一環，涉及利用領域知識來選擇最有用的原始特徵、轉換現有特徵（例如取對數、平方）或創建新的組合特徵，目的是提取更有效的信息，以提高模型的預測準確性和效能。"
+    },
+    {
+      "id": "Q17",
+      "sequence": 17,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11302",
+      "questionHtml": "需要預測<strong style=\"color: blue;\">房價</strong>（一個<strong style=\"color: blue;\">連續數值</strong>）時，最適合使用下列哪種<strong style=\"color: blue;\">監督式學習</strong>演算法？",
+      "questionText": "需要預測房價（一個連續數值）時，最適合使用下列哪種監督式學習演算法？",
+      "mediaHtml": [
+        "<img src=\"../image/Linear%20Regression.jpg\" class=\"responsive-img\">"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">線性迴歸</strong> (<strong style=\"color: red;\">Linear Regression</strong>)",
+          "text": "線性迴歸 (Linear Regression)",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">邏輯迴歸</strong> (<strong style=\"color: red;\">Logistic Regression</strong>)",
+          "text": "邏輯迴歸 (Logistic Regression)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">K-平均分群</strong> (<strong style=\"color: red;\">K-means Clustering</strong>)",
+          "text": "K-平均分群 (K-means Clustering)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">支援向量機</strong> (<strong style=\"color: purple;\">SVM</strong>) 用於分類",
+          "text": "支援向量機 (SVM) 用於分類",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L11302</strong>。<strong style=\"color: blue;\">線性迴歸</strong>是<strong style=\"color: blue;\">監督式學習</strong>中用於解決<strong style=\"background-color: #ffff0030;\">迴歸問題</strong>（預測<strong style=\"color: blue;\">連續數值</strong>輸出）的<strong style=\"color: blue;\">基本演算法</strong>。房價是一個<strong style=\"color: blue;\">連續變數</strong>，因此<strong style=\"color: blue;\">線性迴歸</strong>是合適的選擇。<br>\n                        (B) <strong style=\"color: blue;\">邏輯迴歸</strong>主要用於<strong style=\"color: blue;\">分類問題</strong>（預測<strong style=\"color: blue;\">離散類別</strong>）。<br>\n                        (C) <strong style=\"color: blue;\">K-平均分群</strong>是<strong style=\"color: blue;\">非監督式學習</strong>演算法，用於將資料<strong style=\"color: blue;\">分群</strong>。<br>\n                        (D) <strong style=\"color: purple;\">SVM</strong> 主要用於<strong style=\"color: blue;\">分類</strong>，雖然也有用於迴歸的版本(<strong style=\"color: red;\">SVR</strong>)，但<strong style=\"color: blue;\">線性迴歸</strong>是更<strong style=\"color: blue;\">基礎且直接</strong>的迴歸方法。",
+      "explanationText": "(A) 正確。參考L11302。線性迴歸是監督式學習中用於解決迴歸問題（預測連續數值輸出）的基本演算法。房價是一個連續變數，因此線性迴歸是合適的選擇。 (B) 邏輯迴歸主要用於分類問題（預測離散類別）。 (C) K-平均分群是非監督式學習演算法，用於將資料分群。 (D) SVM 主要用於分類，雖然也有用於迴歸的版本(SVR)，但線性迴歸是更基礎且直接的迴歸方法。"
+    },
+    {
+      "id": "Q18",
+      "sequence": 18,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11302",
+      "questionHtml": "<strong style=\"color: blue;\">K-平均分群</strong> (<strong style=\"color: red;\">K-means Clustering</strong>) 屬於哪種<strong style=\"color: blue;\">機器學習</strong>類型？",
+      "questionText": "K-平均分群 (K-means Clustering) 屬於哪種機器學習類型？",
+      "mediaHtml": [
+        "<img src=\"../image/K-Means.avif\" class=\"responsive-img\">"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">監督式學習</strong> (<strong style=\"color: red;\">Supervised Learning</strong>)",
+          "text": "監督式學習 (Supervised Learning)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">非監督式學習</strong> (<strong style=\"color: red;\">Unsupervised Learning</strong>)",
+          "text": "非監督式學習 (Unsupervised Learning)",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">強化學習</strong> (<strong style=\"color: red;\">Reinforcement Learning</strong>)",
+          "text": "強化學習 (Reinforcement Learning)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "半監督式學習 (<strong style=\"color: red;\">Semi-supervised Learning</strong>)",
+          "text": "半監督式學習 (Semi-supervised Learning)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11302</strong>。<strong style=\"color: blue;\">K-平均分群</strong>旨在將<strong style=\"background-color: #ffff0030;\">未標記</strong>的資料自動分成 K 個群組，它<strong style=\"background-color: #ffff0030;\">不需要事先知道每個數據點的標籤</strong>，而是<strong style=\"color: blue;\">自行探索</strong>資料中的<strong style=\"color: blue;\">結構</strong>與<strong style=\"color: blue;\">相似性</strong>。這是<strong style=\"color: blue;\">非監督式學習</strong>的典型特徵。",
+      "explanationText": "(B) 正確。參考L11302。K-平均分群旨在將未標記的資料自動分成 K 個群組，它不需要事先知道每個數據點的標籤，而是自行探索資料中的結構與相似性。這是非監督式學習的典型特徵。"
+    },
+    {
+      "id": "Q19",
+      "sequence": 19,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11302",
+      "questionHtml": "在<strong style=\"color: blue;\">強化學習</strong> (<strong style=\"color: purple;\">RL</strong>) 中，<strong style=\"color: blue;\">智能體</strong> (<strong style=\"color: red;\">Agent</strong>) 執行一個<strong style=\"color: blue;\">行動</strong> (<strong style=\"color: red;\">Action</strong>) 後，從<strong style=\"color: blue;\">環境</strong> (<strong style=\"color: red;\">Environment</strong>) 獲得的回饋信號，用於<strong style=\"color: blue;\">評估該行動好壞</strong>的指標，稱為什麼？",
+      "questionText": "在強化學習 (RL) 中，智能體 (Agent) 執行一個行動 (Action) 後，從環境 (Environment) 獲得的回饋信號，用於評估該行動好壞的指標，稱為什麼？",
+      "mediaHtml": [
+        "<img src=\"../image/Reinforcement%20Learning.jpg\" class=\"responsive-img\">"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">狀態</strong> (<strong style=\"color: red;\">State</strong>)",
+          "text": "狀態 (State)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">策略</strong> (<strong style=\"color: red;\">Policy</strong>)",
+          "text": "策略 (Policy)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">獎勵</strong> (<strong style=\"color: red;\">Reward</strong>)",
+          "text": "獎勵 (Reward)",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">價值函數</strong> (<strong style=\"color: red;\">Value Function</strong>)",
+          "text": "價值函數 (Value Function)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11302</strong>。<strong style=\"color: blue;\">強化學習</strong>的核心概念之一是<strong style=\"color: blue;\">獎勵</strong> (<strong style=\"color: red;\">Reward</strong>)。它是<strong style=\"color: blue;\">環境</strong>針對<strong style=\"color: blue;\">智能體</strong>上一步<strong style=\"color: blue;\">行動</strong>給出的<strong style=\"background-color: #ffff0030;\">即時回饋信號</strong>，通常是一個<strong style=\"color: blue;\">數值</strong>。<strong style=\"color: blue;\">智能體</strong>的<strong style=\"color: blue;\">目標</strong>是學習一個<strong style=\"color: blue;\">策略</strong>，以最大化<strong style=\"color: blue;\">長期累積獎勵</strong>。<br>\n                        (A) <strong style=\"color: blue;\">狀態</strong>是環境的描述。<br>\n                        (B) <strong style=\"color: blue;\">策略</strong>是智能體選擇行動的規則。<br>\n                        (D) <strong style=\"color: blue;\">價值函數</strong>預估的是處於某狀態或執行某行動的<strong style=\"color: blue;\">長期價值</strong>。",
+      "explanationText": "(C) 正確。參考L11302。強化學習的核心概念之一是獎勵 (Reward)。它是環境針對智能體上一步行動給出的即時回饋信號，通常是一個數值。智能體的目標是學習一個策略，以最大化長期累積獎勵。 (A) 狀態是環境的描述。 (B) 策略是智能體選擇行動的規則。 (D) 價值函數預估的是處於某狀態或執行某行動的長期價值。"
+    },
+    {
+      "id": "Q20",
+      "sequence": 20,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11302",
+      "questionHtml": "評估<strong style=\"color: blue;\">迴歸模型</strong>（如預測溫度）時，哪個指標衡量的是<strong style=\"color: blue;\">預測值</strong>與<strong style=\"color: blue;\">實際值</strong>之間<strong style=\"background-color: #ffff0030;\">差值的平方</strong>的<strong style=\"color: blue;\">平均值</strong>？",
+      "questionText": "評估迴歸模型（如預測溫度）時，哪個指標衡量的是預測值與實際值之間差值的平方的平均值？",
+      "mediaHtml": [
+        "<img src=\"../image/MSE.jpeg\" class=\"responsive-img\">"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">平均絕對誤差</strong> (<strong style=\"color: purple;\">MAE</strong>)",
+          "text": "平均絕對誤差 (MAE)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">均方誤差</strong> (<strong style=\"color: purple;\">MSE</strong>)",
+          "text": "均方誤差 (MSE)",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">R 平方</strong> (<strong style=\"color: purple;\">R²</strong>)",
+          "text": "R 平方 (R²)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">準確率</strong> (<strong style=\"color: red;\">Accuracy</strong>)",
+          "text": "準確率 (Accuracy)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11302</strong>。<strong style=\"color: blue;\">均方誤差</strong>\n                        (<strong style=\"color: purple;\">MSE</strong>) 的計算方式是將每個<strong style=\"color: blue;\">預測值</strong>與<strong style=\"color: blue;\">實際值</strong>的<strong style=\"background-color: #ffff0030;\">差值</strong>先<strong style=\"background-color: #ffff0030;\">平方</strong>（消除正負號並放大誤差），然後再計算這些<strong style=\"color: blue;\">平方差</strong>的<strong style=\"background-color: #ffff0030;\">平均值</strong>。它對<strong style=\"color: blue;\">較大的誤差</strong>給予<strong style=\"color: blue;\">更高的權重</strong>。<br>\n                        (A) <strong style=\"color: purple;\">MAE</strong> 計算的是<strong style=\"color: blue;\">差值絕對值</strong>的平均。<br>\n                        (C) <strong style=\"color: purple;\">R²</strong> 衡量模型解釋<strong style=\"color: blue;\">變異數</strong>的比例。<br>\n                        (D) <strong style=\"color: blue;\">準確率</strong>用於<strong style=\"color: blue;\">分類問題</strong>。",
+      "explanationText": "(B) 正確。參考L11302。均方誤差 (MSE) 的計算方式是將每個預測值與實際值的差值先平方（消除正負號並放大誤差），然後再計算這些平方差的平均值。它對較大的誤差給予更高的權重。 (A) MAE 計算的是差值絕對值的平均。 (C) R² 衡量模型解釋變異數的比例。 (D) 準確率用於分類問題。"
+    },
+    {
+      "id": "Q21",
+      "sequence": 21,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11302",
+      "questionHtml": "<strong style=\"color: blue;\">混淆矩陣</strong> (<strong style=\"color: red;\">Confusion Matrix</strong>) 中的 <strong style=\"color: purple;\">FP</strong>\n                    (<strong style=\"color: blue;\">假正例</strong>) 代表什麼意義？",
+      "questionText": "混淆矩陣 (Confusion Matrix) 中的 FP (假正例) 代表什麼意義？",
+      "mediaHtml": [
+        "<img src=\"../image/Confusion-matrix-Precision-Recall-Accuracy-and-F1-score.png\" class=\"responsive-img\">"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "html": "實際為正，被預測為正",
+          "text": "實際為正，被預測為正",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">實際為負，但被錯誤預測為正</strong>\n                            (<strong style=\"color: red;\">Type I Error</strong>)",
+          "text": "實際為負，但被錯誤預測為正 (Type I Error)",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "實際為負，被預測為負",
+          "text": "實際為負，被預測為負",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "實際為正，但被錯誤預測為負 (<strong style=\"color: red;\">Type II Error</strong>)",
+          "text": "實際為正，但被錯誤預測為負 (Type II Error)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L11302</strong>。在<strong style=\"color: blue;\">混淆矩陣</strong>中：<br>\n                        - <strong style=\"color: purple;\">TP</strong> (<strong style=\"color: blue;\">True\n                            Positive</strong>): 實際為正，預測為正 (A)。<br>\n                        - <strong style=\"color: purple;\">FP</strong> (<strong style=\"color: blue;\">False\n                            Positive</strong>): <strong style=\"background-color: #ffff0030;\">實際為負</strong>，<strong style=\"background-color: #ffff0030;\">預測為正</strong> (B)。也稱為<strong style=\"color: red;\">第一型錯誤</strong>。<br>\n                        - <strong style=\"color: purple;\">TN</strong> (<strong style=\"color: blue;\">True\n                            Negative</strong>): 實際為負，預測為負 (C)。<br>\n                        - <strong style=\"color: purple;\">FN</strong> (<strong style=\"color: blue;\">False\n                            Negative</strong>): 實際為正，預測為負 (D)。也稱為<strong style=\"color: red;\">第二型錯誤</strong>。",
+      "explanationText": "(B) 正確。參考L11302。在混淆矩陣中： - TP (True Positive): 實際為正，預測為正 (A)。 - FP (False Positive): 實際為負，預測為正 (B)。也稱為第一型錯誤。 - TN (True Negative): 實際為負，預測為負 (C)。 - FN (False Negative): 實際為正，預測為負 (D)。也稱為第二型錯誤。"
+    },
+    {
+      "id": "Q22",
+      "sequence": 22,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11401",
+      "questionHtml": "<strong style=\"color: blue;\">鑑別式 AI</strong> 模型（如用於圖片分類）的主要學習目標是？",
+      "questionText": "鑑別式 AI 模型（如用於圖片分類）的主要學習目標是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "學習不同類別之間的<strong style=\"background-color: #ffff0030;\">決策邊界</strong>\n                            (<strong style=\"color: red;\">Decision Boundary</strong>)",
+          "text": "學習不同類別之間的決策邊界 (Decision Boundary)",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "學習如何<strong style=\"background-color: #ffff0030;\">生成</strong>逼真的圖片",
+          "text": "學習如何生成逼真的圖片",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "學習資料的<strong style=\"background-color: #ffff0030;\">潛在分佈</strong>\n                            (<strong style=\"color: red;\">Underlying Distribution</strong>)",
+          "text": "學習資料的潛在分佈 (Underlying Distribution)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "學習如何透過<strong style=\"color: blue;\">獎勵</strong>信號優化行動",
+          "text": "學習如何透過獎勵信號優化行動",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L11401</strong>。<strong style=\"color: blue;\">鑑別式\n                            AI</strong> 的<strong style=\"color: blue;\">核心任務</strong>是<strong style=\"color: blue;\">區分</strong>不同的輸入資料屬於哪個<strong style=\"color: blue;\">類別</strong>。為此，它需要學習一個<strong style=\"background-color: #ffff0030;\">決策邊界</strong>，能夠有效地將不同類別的數據點<strong style=\"color: blue;\">分開</strong>。它關注的是 <strong style=\"color: red;\">P(y|x)</strong>，即給定輸入 x\n                        時，輸出為 y 的機率。<br>\n                        (B) 是<strong style=\"color: blue;\">生成式 AI</strong> 的目標。<br>\n                        (C) 是<strong style=\"color: blue;\">生成式 AI</strong> 的學習內容。<br>\n                        (D) 是<strong style=\"color: blue;\">強化學習</strong>的目標。",
+      "explanationText": "(A) 正確。參考L11401。鑑別式 AI 的核心任務是區分不同的輸入資料屬於哪個類別。為此，它需要學習一個決策邊界，能夠有效地將不同類別的數據點分開。它關注的是 P(y|x)，即給定輸入 x 時，輸出為 y 的機率。 (B) 是生成式 AI 的目標。 (C) 是生成式 AI 的學習內容。 (D) 是強化學習的目標。"
+    },
+    {
+      "id": "Q23",
+      "sequence": 23,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11401",
+      "questionHtml": "<strong style=\"color: blue;\">生成式 AI</strong>（如 <strong style=\"color: purple;\">GAN</strong> 或 <strong style=\"color: purple;\">GPT</strong>）的主要應用場景是？",
+      "questionText": "生成式 AI（如 GAN 或 GPT）的主要應用場景是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "判斷一封郵件是否為<strong style=\"color: blue;\">垃圾郵件</strong>",
+          "text": "判斷一封郵件是否為垃圾郵件",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "辨識圖片中的<strong style=\"color: blue;\">人臉</strong>",
+          "text": "辨識圖片中的人臉",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">創作</strong>新的<strong style=\"color: blue;\">文章</strong>、<strong style=\"color: blue;\">圖像</strong>或<strong style=\"color: blue;\">音樂</strong>",
+          "text": "創作新的文章、圖像或音樂",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "預測明天的<strong style=\"color: blue;\">股票價格</strong>",
+          "text": "預測明天的股票價格",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11401</strong>。<strong style=\"color: blue;\">生成式\n                            AI</strong> 的<strong style=\"color: blue;\">核心能力</strong>在於<strong style=\"background-color: #ffff0030;\">生成</strong> (<strong style=\"color: red;\">Generate</strong>) 或<strong style=\"background-color: #ffff0030;\">創造</strong> (<strong style=\"color: red;\">Create</strong>) <strong style=\"color: blue;\">新的</strong>、<strong style=\"color: blue;\">與訓練資料相似</strong>的內容，例如<strong style=\"color: blue;\">文本</strong>、<strong style=\"color: blue;\">圖像</strong>、<strong style=\"color: blue;\">聲音</strong>等。<br>\n                        (A), (B), (D) 主要屬於<strong style=\"color: blue;\">鑑別式 AI</strong> 的應用範疇（分類、辨識、預測）。",
+      "explanationText": "(C) 正確。參考L11401。生成式 AI 的核心能力在於生成 (Generate) 或創造 (Create) 新的、與訓練資料相似的內容，例如文本、圖像、聲音等。 (A), (B), (D) 主要屬於鑑別式 AI 的應用範疇（分類、辨識、預測）。"
+    },
+    {
+      "id": "Q24",
+      "sequence": 24,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11401",
+      "questionHtml": "下列哪項技術<strong style=\"color: red;\">主要</strong>被歸類為<strong style=\"color: blue;\">鑑別式 AI</strong>？",
+      "questionText": "下列哪項技術主要被歸類為鑑別式 AI？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">生成對抗網路</strong> (<strong style=\"color: purple;\">GAN</strong>)",
+          "text": "生成對抗網路 (GAN)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">變分自編碼器</strong> (<strong style=\"color: purple;\">VAE</strong>)",
+          "text": "變分自編碼器 (VAE)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">支援向量機</strong> (<strong style=\"color: purple;\">SVM</strong>)",
+          "text": "支援向量機 (SVM)",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">擴散模型</strong> (<strong style=\"color: red;\">Diffusion Models</strong>)",
+          "text": "擴散模型 (Diffusion Models)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11401</strong> 和 <strong style=\"color: red;\">L11302</strong>。<strong style=\"color: blue;\">支援向量機</strong> (<strong style=\"color: purple;\">SVM</strong>) 是一種典型的<strong style=\"color: blue;\">監督式學習</strong>演算法，其<strong style=\"color: blue;\">目標是找到最佳的超平面來區分</strong>不同類別的數據，因此屬於<strong style=\"background-color: #ffff0030;\">鑑別式 AI</strong>。<br>\n                        (A), (B), (D) 都是<strong style=\"color: blue;\">生成式 AI</strong> 的代表性技術，用於<strong style=\"color: blue;\">生成新數據</strong>。",
+      "explanationText": "(C) 正確。參考L11401 和 L11302。支援向量機 (SVM) 是一種典型的監督式學習演算法，其目標是找到最佳的超平面來區分不同類別的數據，因此屬於鑑別式 AI。 (A), (B), (D) 都是生成式 AI 的代表性技術，用於生成新數據。"
+    },
+    {
+      "id": "Q25",
+      "sequence": 25,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11401",
+      "questionHtml": "<strong style=\"color: blue;\">鑑別式 AI</strong> 與<strong style=\"color: blue;\">生成式 AI</strong> 的<strong style=\"color: red;\">主要區別</strong>在於？",
+      "questionText": "鑑別式 AI 與生成式 AI 的主要區別在於？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "使用的<strong style=\"color: blue;\">程式語言</strong>不同",
+          "text": "使用的程式語言不同",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "需要的<strong style=\"color: blue;\">硬體設備</strong>不同",
+          "text": "需要的硬體設備不同",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "學習的<strong style=\"background-color: #ffff0030;\">目標</strong>（<strong style=\"color: blue;\">分類/辨識</strong> vs <strong style=\"color: blue;\">生成/創造</strong>）和<strong style=\"background-color: #ffff0030;\">學習的內容</strong>（<strong style=\"color: blue;\">決策邊界</strong> vs <strong style=\"color: blue;\">數據分佈</strong>）不同",
+          "text": "學習的目標（分類/辨識 vs 生成/創造）和學習的內容（決策邊界 vs 數據分佈）不同",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "是否需要<strong style=\"color: blue;\">大量數據</strong>進行訓練",
+          "text": "是否需要大量數據進行訓練",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11401</strong>。<strong style=\"color: blue;\">最核心的區別</strong>在於它們的<strong style=\"background-color: #ffff0030;\">目的</strong>和<strong style=\"background-color: #ffff0030;\">學習方式</strong>。<strong style=\"color: blue;\">鑑別式\n                            AI</strong> 旨在<strong style=\"color: blue;\">區分</strong>數據（學習決策邊界），而<strong style=\"color: blue;\">生成式 AI</strong> 旨在<strong style=\"color: blue;\">創造</strong>新數據（學習數據分佈）。<br>(A) 和 (B) 不是本質區別。<br>(D) 兩者通常都需要<strong style=\"color: blue;\">大量數據</strong>，但所需數據的<strong style=\"color: blue;\">標註</strong>情況可能不同（鑑別式常用標註數據，生成式可使用未標註數據）。",
+      "explanationText": "(C) 正確。參考L11401。最核心的區別在於它們的目的和學習方式。鑑別式 AI 旨在區分數據（學習決策邊界），而生成式 AI 旨在創造新數據（學習數據分佈）。(A) 和 (B) 不是本質區別。(D) 兩者通常都需要大量數據，但所需數據的標註情況可能不同（鑑別式常用標註數據，生成式可使用未標註數據）。"
+    },
+    {
+      "id": "Q26",
+      "sequence": 26,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11402",
+      "questionHtml": "將<strong style=\"color: blue;\">低解析度</strong>影像提升為<strong style=\"color: blue;\">高解析度</strong>影像的<strong style=\"color: blue;\">超解析度</strong> (<strong style=\"color: red;\">Super-Resolution</strong>) 技術，通常如何整合<strong style=\"color: blue;\">鑑別式</strong>與<strong style=\"color: blue;\">生成式 AI</strong>？",
+      "questionText": "將低解析度影像提升為高解析度影像的超解析度 (Super-Resolution) 技術，通常如何整合鑑別式與生成式 AI？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">生成式</strong>模型<strong style=\"background-color: #ffff0030;\">生成</strong>細節，<strong style=\"color: blue;\">鑑別式</strong>模型<strong style=\"background-color: #ffff0030;\">判斷</strong>生成影像的<strong style=\"color: blue;\">真實性</strong>",
+          "text": "生成式模型生成細節，鑑別式模型判斷生成影像的真實性",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">鑑別式</strong>模型生成細節，<strong style=\"color: blue;\">生成式</strong>模型判斷真實性",
+          "text": "鑑別式模型生成細節，生成式模型判斷真實性",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "僅使用<strong style=\"color: blue;\">鑑別式</strong>模型進行像素插值",
+          "text": "僅使用鑑別式模型進行像素插值",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "僅使用<strong style=\"color: blue;\">生成式</strong>模型憑空創造高解析度影像",
+          "text": "僅使用生成式模型憑空創造高解析度影像",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L11402</strong>。在基於 <strong style=\"color: purple;\">GAN</strong> 的<strong style=\"color: blue;\">超解析度</strong>技術中（如 <strong style=\"color: red;\">ESRGAN</strong>），<strong style=\"color: blue;\">生成器</strong> (<strong style=\"color: red;\">Generator</strong>) 負責學習從<strong style=\"color: blue;\">低解析度</strong>映射到<strong style=\"color: blue;\">高解析度</strong>，<strong style=\"background-color: #ffff0030;\">生成</strong>缺失的細節（生成式角色）；而<strong style=\"color: blue;\">判別器</strong> (<strong style=\"color: red;\">Discriminator</strong>)\n                        負責<strong style=\"background-color: #ffff0030;\">判斷</strong>生成的圖像是否看起來<strong style=\"color: blue;\">像真實的高解析度圖像</strong>（鑑別式角色）。兩者<strong style=\"color: blue;\">對抗訓練</strong>，促使生成器產生更逼真的結果。",
+      "explanationText": "(A) 正確。參考L11402。在基於 GAN 的超解析度技術中（如 ESRGAN），生成器 (Generator) 負責學習從低解析度映射到高解析度，生成缺失的細節（生成式角色）；而判別器 (Discriminator) 負責判斷生成的圖像是否看起來像真實的高解析度圖像（鑑別式角色）。兩者對抗訓練，促使生成器產生更逼真的結果。"
+    },
+    {
+      "id": "Q27",
+      "sequence": 27,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11402",
+      "questionHtml": "在<strong style=\"color: blue;\">自動對話系統</strong> (<strong style=\"color: red;\">Conversational Systems</strong>) 中，判斷使用者<strong style=\"color: blue;\">意圖</strong> (<strong style=\"color: red;\">Intent Recognition</strong>)\n                    的任務，主要依賴哪種類型的 <strong style=\"color: purple;\">AI</strong>？",
+      "questionText": "在自動對話系統 (Conversational Systems) 中，判斷使用者意圖 (Intent Recognition) 的任務，主要依賴哪種類型的 AI？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">鑑別式 AI</strong>",
+          "text": "鑑別式 AI",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">生成式 AI</strong>",
+          "text": "生成式 AI",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">強化學習 AI</strong>",
+          "text": "強化學習 AI",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">非監督式 AI</strong>",
+          "text": "非監督式 AI",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L11402</strong>。<strong style=\"color: blue;\">意圖識別</strong>是典型的<strong style=\"color: blue;\">分類</strong>任務，需要將使用者的輸入語句<strong style=\"background-color: #ffff0030;\">分類</strong>到預先定義好的<strong style=\"color: blue;\">意圖類別</strong>（例如：查詢天氣、播放音樂、訂票）。這正是<strong style=\"color: blue;\">鑑別式\n                            AI</strong> 所擅長的。<strong style=\"color: blue;\">生成式 AI</strong> 則主要用於後續<strong style=\"color: blue;\">生成回應</strong>。",
+      "explanationText": "(A) 正確。參考L11402。意圖識別是典型的分類任務，需要將使用者的輸入語句分類到預先定義好的意圖類別（例如：查詢天氣、播放音樂、訂票）。這正是鑑別式 AI 所擅長的。生成式 AI 則主要用於後續生成回應。"
+    },
+    {
+      "id": "Q28",
+      "sequence": 28,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L11402",
+      "questionHtml": "<strong style=\"color: red;\">Voice Conversion GAN</strong> (<strong style=\"color: purple;\">VCGAN</strong>) 技術能將<strong style=\"color: blue;\">一個人的聲音轉換成另一個人的聲音</strong>，這體現了<strong style=\"color: blue;\">鑑別式</strong>與<strong style=\"color: blue;\">生成式 AI</strong> 的何種整合應用？",
+      "questionText": "Voice Conversion GAN (VCGAN) 技術能將一個人的聲音轉換成另一個人的聲音，這體現了鑑別式與生成式 AI 的何種整合應用？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "影像風格轉換",
+          "text": "影像風格轉換",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "自然語言理解",
+          "text": "自然語言理解",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">語音轉換與語音增強</strong>",
+          "text": "語音轉換與語音增強",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "自動化流程設計",
+          "text": "自動化流程設計",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L11402</strong>。這項技術涉及<strong style=\"color: blue;\">分析</strong>原始語音的<strong style=\"color: blue;\">內容</strong>和<strong style=\"color: blue;\">說話者特徵</strong>（鑑別式），然後<strong style=\"background-color: #ffff0030;\">生成</strong>具有<strong style=\"color: blue;\">相同內容</strong>但<strong style=\"color: blue;\">不同聲音特徵</strong>的新語音（生成式）。這屬於<strong style=\"color: blue;\">語音轉換與語音增強</strong>的範疇。",
+      "explanationText": "(C) 正確。參考L11402。這項技術涉及分析原始語音的內容和說話者特徵（鑑別式），然後生成具有相同內容但不同聲音特徵的新語音（生成式）。這屬於語音轉換與語音增強的範疇。"
+    },
+    {
+      "id": "Q29",
+      "sequence": 29,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12101",
+      "questionHtml": "<strong style=\"color: blue;\">No Code</strong> 平台的主要特點是？",
+      "questionText": "No Code 平台的主要特點是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "允許使用者透過<strong style=\"background-color: #ffff0030;\">視覺化介面</strong>和<strong style=\"background-color: #ffff0030;\">拖放</strong>操作來建構應用，<strong style=\"background-color: #ffff0030;\">無需編寫程式碼</strong>",
+          "text": "允許使用者透過視覺化介面和拖放操作來建構應用，無需編寫程式碼",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "需要使用者具備<strong style=\"color: blue;\">精深的程式設計</strong>能力",
+          "text": "需要使用者具備精深的程式設計能力",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "主要用於訓練<strong style=\"color: blue;\">複雜的機器學習模型</strong>",
+          "text": "主要用於訓練複雜的機器學習模型",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "僅能用於開發<strong style=\"color: blue;\">桌面應用程式</strong>",
+          "text": "僅能用於開發桌面應用程式",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L12101</strong>。<strong style=\"color: blue;\">No\n                            Code</strong> 平台的<strong style=\"color: blue;\">核心價值</strong>在於讓<strong style=\"color: blue;\">非技術背景</strong>的使用者也能夠透過<strong style=\"background-color: #ffff0030;\">直觀的視覺化操作</strong>（如拖放元件、設定屬性）來<strong style=\"color: blue;\">創建應用程式</strong>或<strong style=\"color: blue;\">自動化流程</strong>，<strong style=\"background-color: #ffff0030;\">完全不需要</strong>接觸到底層的程式碼。",
+      "explanationText": "(A) 正確。參考L12101。No Code 平台的核心價值在於讓非技術背景的使用者也能夠透過直觀的視覺化操作（如拖放元件、設定屬性）來創建應用程式或自動化流程，完全不需要接觸到底層的程式碼。"
+    },
+    {
+      "id": "Q30",
+      "sequence": 30,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12101",
+      "questionHtml": "相較於 <strong style=\"color: blue;\">No Code</strong> 平台，<strong style=\"color: blue;\">Low Code</strong> 平台的主要差異在於？",
+      "questionText": "相較於 No Code 平台，Low Code 平台的主要差異在於？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "完全<strong style=\"color: blue;\">不需要</strong>任何技術知識",
+          "text": "完全不需要任何技術知識",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">允許</strong>開發者編寫<strong style=\"background-color: #ffff0030;\">少量程式碼</strong>以實現<strong style=\"color: blue;\">更高的自訂性</strong>和<strong style=\"color: blue;\">複雜功能</strong>",
+          "text": "允許開發者編寫少量程式碼以實現更高的自訂性和複雜功能",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "開發速度比 <strong style=\"color: blue;\">No Code</strong> <strong style=\"color: blue;\">慢很多</strong>",
+          "text": "開發速度比 No Code 慢很多",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "只能用於<strong style=\"color: blue;\">後端</strong>開發",
+          "text": "只能用於後端開發",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12101</strong>。<strong style=\"color: blue;\">Low\n                            Code</strong> 平台雖然也大量使用<strong style=\"color: blue;\">視覺化工具</strong>，但其<strong style=\"color: blue;\">關鍵差異</strong>在於它<strong style=\"background-color: #ffff0030;\">提供了編寫少量自訂程式碼的空間</strong>。這使得開發者能夠在需要時<strong style=\"color: blue;\">擴展平台的功能</strong>、整合<strong style=\"color: blue;\">外部系統</strong>或實現<strong style=\"color: blue;\">更複雜的業務邏輯</strong>，提供了比 <strong style=\"color: blue;\">No Code</strong>\n                        更高的<strong style=\"color: blue;\">靈活性</strong>和<strong style=\"color: blue;\">自訂性</strong>。",
+      "explanationText": "(B) 正確。參考L12101。Low Code 平台雖然也大量使用視覺化工具，但其關鍵差異在於它提供了編寫少量自訂程式碼的空間。這使得開發者能夠在需要時擴展平台的功能、整合外部系統或實現更複雜的業務邏輯，提供了比 No Code 更高的靈活性和自訂性。"
+    },
+    {
+      "id": "Q31",
+      "sequence": 31,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12101",
+      "questionHtml": "使用 <strong style=\"color: red;\">Zapier</strong> 或 <strong style=\"color: red;\">Airtable</strong> 這類工具來<strong style=\"color: blue;\">自動化</strong>處理<strong style=\"color: blue;\">銷售數據</strong>與<strong style=\"color: blue;\">市場行銷流程</strong>，屬於 <strong style=\"color: blue;\">No Code</strong> / <strong style=\"color: blue;\">Low Code</strong> 的哪種應用案例？",
+      "questionText": "使用 Zapier 或 Airtable 這類工具來自動化處理銷售數據與市場行銷流程，屬於 No Code / Low Code 的哪種應用案例？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "複雜的<strong style=\"color: purple;\">AI</strong>模型訓練",
+          "text": "複雜的AI模型訓練",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "大型<strong style=\"color: blue;\">企業資源規劃</strong> (<strong style=\"color: purple;\">ERP</strong>) 系統開發",
+          "text": "大型企業資源規劃 (ERP) 系統開發",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">自動化工作流程設計</strong>或<strong style=\"color: blue;\">簡單應用建置</strong>",
+          "text": "自動化工作流程設計或簡單應用建置",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "作業系統核心開發",
+          "text": "作業系統核心開發",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12101</strong>。<strong style=\"color: red;\">Zapier</strong>\n                        主要用於<strong style=\"color: blue;\">連接不同的應用程式</strong>並<strong style=\"color: blue;\">自動化工作流程</strong>（例如，當收到新郵件時自動更新試算表）。<strong style=\"color: red;\">Airtable</strong> 則像一個<strong style=\"color: blue;\">強化的試算表</strong>，可用於<strong style=\"color: blue;\">建立簡單的資料庫應用</strong>或<strong style=\"color: blue;\">管理專案</strong>。這些都屬於\n                        <strong style=\"color: blue;\">No Code</strong> / <strong style=\"color: blue;\">Low Code</strong>\n                        在<strong style=\"background-color: #ffff0030;\">自動化</strong>和<strong style=\"color: blue;\">快速建置簡單應用</strong>方面的典型應用。",
+      "explanationText": "(C) 正確。參考L12101。Zapier 主要用於連接不同的應用程式並自動化工作流程（例如，當收到新郵件時自動更新試算表）。Airtable 則像一個強化的試算表，可用於建立簡單的資料庫應用或管理專案。這些都屬於 No Code / Low Code 在自動化和快速建置簡單應用方面的典型應用。"
+    },
+    {
+      "id": "Q32",
+      "sequence": 32,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12102",
+      "questionHtml": "下列何者是使用 <strong style=\"color: blue;\">No Code</strong> / <strong style=\"color: blue;\">Low Code</strong> 平台的主要<strong style=\"color: blue;\">優勢</strong>？",
+      "questionText": "下列何者是使用 No Code / Low Code 平台的主要優勢？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "提供<strong style=\"color: blue;\">無限的功能擴展</strong>性",
+          "text": "提供無限的功能擴展性",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">降低開發門檻</strong>，加速<strong style=\"color: blue;\">產品開發</strong>與<strong style=\"color: blue;\">部署</strong>",
+          "text": "降低開發門檻，加速產品開發與部署",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "保證<strong style=\"color: blue;\">最高的系統安全性</strong>",
+          "text": "保證最高的系統安全性",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "完全<strong style=\"color: blue;\">擺脫對平台的依賴</strong>",
+          "text": "完全擺脫對平台的依賴",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12102</strong>。<strong style=\"color: blue;\">No\n                            Code</strong> / <strong style=\"color: blue;\">Low Code</strong> 最<strong style=\"color: blue;\">核心的優勢</strong>就是讓更多人（包括<strong style=\"color: blue;\">非專業開發者</strong>）能夠參與應用開發，並透過<strong style=\"color: blue;\">預製元件</strong>和<strong style=\"color: blue;\">視覺化工具</strong>大幅<strong style=\"background-color: #ffff0030;\">縮短開發時間</strong>，實現<strong style=\"background-color: #ffff0030;\">快速原型製作</strong>、<strong style=\"color: blue;\">部署</strong>和<strong style=\"color: blue;\">迭代</strong>。<br>\n                        (A), (C), (D) 描述的通常是 <strong style=\"color: blue;\">No Code</strong> / <strong style=\"color: blue;\">Low Code</strong> 可能存在的<strong style=\"color: blue;\">限制</strong>或<strong style=\"color: blue;\">挑戰</strong>。",
+      "explanationText": "(B) 正確。參考L12102。No Code / Low Code 最核心的優勢就是讓更多人（包括非專業開發者）能夠參與應用開發，並透過預製元件和視覺化工具大幅縮短開發時間，實現快速原型製作、部署和迭代。 (A), (C), (D) 描述的通常是 No Code / Low Code 可能存在的限制或挑戰。"
+    },
+    {
+      "id": "Q33",
+      "sequence": 33,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12102",
+      "questionHtml": "當企業需要開發一個<strong style=\"color: blue;\">功能非常複雜</strong>且需要<strong style=\"color: blue;\">高度客製化</strong>的系統時，完全依賴 <strong style=\"color: blue;\">No Code</strong>\n                    平台可能會遇到什麼主要問題？",
+      "questionText": "當企業需要開發一個功能非常複雜且需要高度客製化的系統時，完全依賴 No Code 平台可能會遇到什麼主要問題？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "開發成本過高",
+          "text": "開發成本過高",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "開發速度過慢",
+          "text": "開發速度過慢",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">平台的功能限制</strong>和<strong style=\"background-color: #ffff0030;\">彈性不足</strong>",
+          "text": "平台的功能限制和彈性不足",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "安全性完全無法保障",
+          "text": "安全性完全無法保障",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12102</strong>。<strong style=\"color: blue;\">No\n                            Code</strong> 平台為了易用性，通常會提供<strong style=\"color: blue;\">標準化</strong>的<strong style=\"color: blue;\">元件</strong>和<strong style=\"color: blue;\">功能</strong>。對於需要<strong style=\"color: blue;\">獨特業務邏輯</strong>、<strong style=\"color: blue;\">複雜演算法</strong>或與<strong style=\"color: blue;\">特殊系統整合</strong>的<strong style=\"background-color: #ffff0030;\">高度客製化</strong>需求，<strong style=\"color: blue;\">No\n                            Code</strong> 平台<strong style=\"color: blue;\">預設的功能</strong>往往<strong style=\"background-color: #ffff0030;\">難以滿足</strong>，其<strong style=\"background-color: #ffff0030;\">彈性不足</strong>會成為主要<strong style=\"color: blue;\">限制</strong>。<strong style=\"color: blue;\">Low Code</strong> 在這方面會<strong style=\"color: blue;\">稍好</strong>一些，但仍可能有限制。",
+      "explanationText": "(C) 正確。參考L12102。No Code 平台為了易用性，通常會提供標準化的元件和功能。對於需要獨特業務邏輯、複雜演算法或與特殊系統整合的高度客製化需求，No Code 平台預設的功能往往難以滿足，其彈性不足會成為主要限制。Low Code 在這方面會稍好一些，但仍可能有限制。"
+    },
+    {
+      "id": "Q34",
+      "sequence": 34,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12102",
+      "questionHtml": "下列關於 <strong style=\"color: blue;\">No Code</strong> / <strong style=\"color: blue;\">Low Code</strong> <strong style=\"color: blue;\">學習曲線</strong>的敘述，何者最<strong style=\"color: blue;\">正確</strong>？",
+      "questionText": "下列關於 No Code / Low Code 學習曲線的敘述，何者最正確？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "完全沒有學習曲線，任何人都能立即上手所有功能。",
+          "text": "完全沒有學習曲線，任何人都能立即上手所有功能。",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "雖然<strong style=\"background-color: #ffff0030;\">入門門檻低</strong>，但要<strong style=\"color: blue;\">精通</strong>或應用於<strong style=\"color: blue;\">複雜場景</strong>仍<strong style=\"background-color: #ffff0030;\">需要學習</strong>。",
+          "text": "雖然入門門檻低，但要精通或應用於複雜場景仍需要學習。",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "學習曲線比傳統程式設計<strong style=\"color: blue;\">更陡峭</strong>。",
+          "text": "學習曲線比傳統程式設計更陡峭。",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "只有專業開發人員才能學會使用。",
+          "text": "只有專業開發人員才能學會使用。",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12102</strong>。雖然 <strong style=\"color: blue;\">No\n                            Code</strong> / <strong style=\"color: blue;\">Low Code</strong> 的設計目標是<strong style=\"background-color: #ffff0030;\">降低入門門檻</strong>，讓非專業人士也能快速上手<strong style=\"color: blue;\">基本操作</strong>和<strong style=\"color: blue;\">簡單應用</strong>的建置。然而，要充分利用平台的所有功能、設計<strong style=\"color: blue;\">優良的架構</strong>、處理<strong style=\"color: blue;\">較複雜的邏輯</strong>或進行<strong style=\"color: blue;\">系統整合</strong>，使用者仍然<strong style=\"background-color: #ffff0030;\">需要投入時間學習</strong>平台的特性、最佳實踐和可能的限制，因此學習曲線<strong style=\"color: blue;\">仍然存在</strong>，只是<strong style=\"color: blue;\">起點較低</strong>。",
+      "explanationText": "(B) 正確。參考L12102。雖然 No Code / Low Code 的設計目標是降低入門門檻，讓非專業人士也能快速上手基本操作和簡單應用的建置。然而，要充分利用平台的所有功能、設計優良的架構、處理較複雜的邏輯或進行系統整合，使用者仍然需要投入時間學習平台的特性、最佳實踐和可能的限制，因此學習曲線仍然存在，只是起點較低。"
+    },
+    {
+      "id": "Q35",
+      "sequence": 35,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12201",
+      "questionHtml": "若想利用<strong style=\"color: blue;\">生成式 AI</strong> 創作具有<strong style=\"color: blue;\">獨特藝術風格</strong>的<strong style=\"color: blue;\">高品質圖像</strong>，下列哪個工具是<strong style=\"color: blue;\">常見</strong>且<strong style=\"color: blue;\">著名</strong>的選擇？",
+      "questionText": "若想利用生成式 AI 創作具有獨特藝術風格的高品質圖像，下列哪個工具是常見且著名的選擇？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: red;\">ChatGPT</strong>",
+          "text": "ChatGPT",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: red;\">Midjourney</strong>",
+          "text": "Midjourney",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: red;\">GitHub Copilot</strong>",
+          "text": "GitHub Copilot",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: red;\">SUNO AI</strong>",
+          "text": "SUNO AI",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12201</strong>。<strong style=\"color: red;\">Midjourney</strong> 以其<strong style=\"background-color: #ffff0030;\">生成高品質、具有藝術感和想像力圖像</strong>的能力而聞名，是許多<strong style=\"color: blue;\">設計師</strong>和<strong style=\"color: blue;\">藝術家</strong>常用的<strong style=\"color: blue;\">圖像生成</strong>工具。<br>\n                        (A) <strong style=\"color: red;\">ChatGPT</strong> 主要擅長<strong style=\"color: blue;\">文本生成</strong>（雖然付費版可整合 <strong style=\"color: red;\">DALL-E</strong>\n                        生成圖像，但非其最核心專長）。<br>\n                        (C) <strong style=\"color: red;\">GitHub Copilot</strong> 用於<strong style=\"color: blue;\">程式碼輔助</strong>。<br>\n                        (D) <strong style=\"color: red;\">SUNO AI</strong> 用於<strong style=\"color: blue;\">音樂生成</strong>。",
+      "explanationText": "(B) 正確。參考L12201。Midjourney 以其生成高品質、具有藝術感和想像力圖像的能力而聞名，是許多設計師和藝術家常用的圖像生成工具。 (A) ChatGPT 主要擅長文本生成（雖然付費版可整合 DALL-E 生成圖像，但非其最核心專長）。 (C) GitHub Copilot 用於程式碼輔助。 (D) SUNO AI 用於音樂生成。"
+    },
+    {
+      "id": "Q36",
+      "sequence": 36,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12201",
+      "questionHtml": "下列哪個<strong style=\"color: blue;\">生成式 AI</strong> 工具是<strong style=\"background-color: #ffff0030;\">開源</strong>模型，允許使用者<strong style=\"color: blue;\">自行部署</strong>和<strong style=\"color: blue;\">修改</strong>？",
+      "questionText": "下列哪個生成式 AI 工具是開源模型，允許使用者自行部署和修改？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: red;\">Midjourney</strong>",
+          "text": "Midjourney",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: red;\">ChatGPT</strong> (<strong style=\"color: red;\">OpenAI</strong> 模型)",
+          "text": "ChatGPT (OpenAI 模型)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: red;\">Stable Diffusion</strong>",
+          "text": "Stable Diffusion",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: red;\">Claude</strong> (<strong style=\"color: red;\">Anthropic</strong> 模型)",
+          "text": "Claude (Anthropic 模型)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12201</strong>。<strong style=\"color: red;\">Stable\n                            Diffusion</strong> 是由 <strong style=\"color: red;\">Stability AI</strong> 支持開發的<strong style=\"background-color: #ffff0030;\">開源圖像生成模型</strong>。開源的特性意味著使用者可以<strong style=\"color: blue;\">自由下載模型</strong>、在<strong style=\"color: blue;\">本地運行</strong>、進行<strong style=\"color: blue;\">微調</strong>或整合到自己的應用中，提供了<strong style=\"color: blue;\">極高的彈性</strong>。<br>(A), (B), (D) 都是<strong style=\"color: blue;\">閉源</strong>的商業模型或服務。",
+      "explanationText": "(C) 正確。參考L12201。Stable Diffusion 是由 Stability AI 支持開發的開源圖像生成模型。開源的特性意味著使用者可以自由下載模型、在本地運行、進行微調或整合到自己的應用中，提供了極高的彈性。(A), (B), (D) 都是閉源的商業模型或服務。"
+    },
+    {
+      "id": "Q37",
+      "sequence": 37,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12201",
+      "questionHtml": "<strong style=\"color: red;\">GitHub Copilot</strong> 主要應用於哪個領域？",
+      "questionText": "GitHub Copilot 主要應用於哪個領域？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">圖像設計</strong>",
+          "text": "圖像設計",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">音樂創作</strong>",
+          "text": "音樂創作",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">程式碼撰寫輔助</strong>",
+          "text": "程式碼撰寫輔助",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">影片剪輯</strong>",
+          "text": "影片剪輯",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12201</strong>。<strong style=\"color: red;\">GitHub\n                            Copilot</strong> 是一款由 <strong style=\"color: red;\">GitHub</strong> 和 <strong style=\"color: red;\">OpenAI</strong> 合作開發的<strong style=\"color: purple;\">AI</strong>\n                        工具，它能夠在開發者編寫程式碼時，<strong style=\"background-color: #ffff0030;\">實時提供程式碼建議</strong>、<strong style=\"color: blue;\">自動補全</strong>甚至<strong style=\"color: blue;\">生成整個函數</strong>，旨在<strong style=\"color: blue;\">提高程式設計師的開發效率</strong>。",
+      "explanationText": "(C) 正確。參考L12201。GitHub Copilot 是一款由 GitHub 和 OpenAI 合作開發的AI 工具，它能夠在開發者編寫程式碼時，實時提供程式碼建議、自動補全甚至生成整個函數，旨在提高程式設計師的開發效率。"
+    },
+    {
+      "id": "Q38",
+      "sequence": 38,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12201",
+      "questionHtml": "若需要在<strong style=\"color: blue;\">企業內部</strong>建立一個<strong style=\"color: blue;\">可客製化</strong>的<strong style=\"color: purple;\">AI</strong>助理或<strong style=\"color: blue;\">聊天機器人</strong>，整合公司<strong style=\"color: blue;\">內部知識</strong>，<strong style=\"color: red;\">Microsoft</strong> 提供了哪個平台？",
+      "questionText": "若需要在企業內部建立一個可客製化的AI助理或聊天機器人，整合公司內部知識，Microsoft 提供了哪個平台？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: red;\">OpenAI API</strong>",
+          "text": "OpenAI API",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: red;\">ChatGPT</strong>",
+          "text": "ChatGPT",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: red;\">Copilot Studio</strong> (原 <strong style=\"color: red;\">Power Virtual Agents</strong>)",
+          "text": "Copilot Studio (原 Power Virtual Agents)",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: red;\">Midjourney</strong>",
+          "text": "Midjourney",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12201</strong>。<strong style=\"color: red;\">Copilot\n                            Studio</strong> 是 <strong style=\"color: red;\">Microsoft Power Platform</strong>\n                        的一部分，它提供了一個<strong style=\"color: blue;\">低程式碼</strong> (<strong style=\"color: red;\">Low\n                            Code</strong>) 的環境，讓企業能夠<strong style=\"background-color: #ffff0030;\">建立、測試和部署</strong>自己的\n                        <strong style=\"color: purple;\">AI</strong> <strong style=\"color: blue;\">聊天機器人</strong>或<strong style=\"color: blue;\">助理</strong> (<strong style=\"color: red;\">Copilots</strong>)。它可以<strong style=\"background-color: #ffff0030;\">連接企業內部數據源</strong>和<strong style=\"color: blue;\">外部服務</strong>，實現<strong style=\"color: blue;\">客製化</strong>的對話體驗。<br>\n                        (A) <strong style=\"color: red;\">OpenAI API</strong> 提供模型接口，需要自行開發整合。<br>\n                        (B) <strong style=\"color: red;\">ChatGPT</strong> 是一個<strong style=\"color: blue;\">通用對話模型</strong>，不易直接整合企業內部知識。<br>\n                        (D) <strong style=\"color: red;\">Midjourney</strong> 用於<strong style=\"color: blue;\">圖像生成</strong>。",
+      "explanationText": "(C) 正確。參考L12201。Copilot Studio 是 Microsoft Power Platform 的一部分，它提供了一個低程式碼 (Low Code) 的環境，讓企業能夠建立、測試和部署自己的 AI 聊天機器人或助理 (Copilots)。它可以連接企業內部數據源和外部服務，實現客製化的對話體驗。 (A) OpenAI API 提供模型接口，需要自行開發整合。 (B) ChatGPT 是一個通用對話模型，不易直接整合企業內部知識。 (D) Midjourney 用於圖像生成。"
+    },
+    {
+      "id": "Q39",
+      "sequence": 39,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12202",
+      "questionHtml": "撰寫<strong style=\"color: blue;\">提示</strong> (<strong style=\"color: red;\">Prompt</strong>) 時，為了獲得更<strong style=\"color: blue;\">精確</strong>和<strong style=\"color: blue;\">符合預期</strong>的結果，最重要的原則是？",
+      "questionText": "撰寫提示 (Prompt) 時，為了獲得更精確和符合預期的結果，最重要的原則是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "提示越<strong style=\"color: blue;\">簡短</strong>越好",
+          "text": "提示越簡短越好",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "使用<strong style=\"color: blue;\">模糊</strong>的詞語以激發創意",
+          "text": "使用模糊的詞語以激發創意",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "提供<strong style=\"background-color: #ffff0030;\">清晰、具體</strong>的<strong style=\"color: blue;\">指示</strong>，包含<strong style=\"color: blue;\">內容、格式、風格</strong>等要求",
+          "text": "提供清晰、具體的指示，包含內容、格式、風格等要求",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "每次只問一個<strong style=\"color: blue;\">非常簡單</strong>的問題",
+          "text": "每次只問一個非常簡單的問題",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12202</strong>。<strong style=\"color: blue;\">提示工程</strong>的核心在於<strong style=\"color: blue;\">精確地傳達</strong>使用者的<strong style=\"color: blue;\">意圖</strong>給<strong style=\"color: purple;\">AI</strong>模型。<strong style=\"background-color: #ffff0030;\">清晰、具體</strong>的指示，包含對<strong style=\"color: blue;\">期望輸出</strong>的<strong style=\"color: blue;\">內容細節</strong>、<strong style=\"color: blue;\">結構格式</strong>（如點列式、段落）、<strong style=\"color: blue;\">語氣風格</strong>（如正式、口語）等方面的要求，能<strong style=\"color: blue;\">有效引導</strong>模型生成更<strong style=\"color: blue;\">符合需求</strong>的結果。<br>\n                        (A) 過於簡短可能導致<strong style=\"color: blue;\">歧義</strong>。<br>\n                        (B) 模糊指令會讓模型<strong style=\"color: blue;\">難以理解</strong>確切需求。<br>\n                        (D) 雖然簡單問題容易回答，但好的提示可以引導模型完成<strong style=\"color: blue;\">更複雜</strong>的任務。",
+      "explanationText": "(C) 正確。參考L12202。提示工程的核心在於精確地傳達使用者的意圖給AI模型。清晰、具體的指示，包含對期望輸出的內容細節、結構格式（如點列式、段落）、語氣風格（如正式、口語）等方面的要求，能有效引導模型生成更符合需求的結果。 (A) 過於簡短可能導致歧義。 (B) 模糊指令會讓模型難以理解確切需求。 (D) 雖然簡單問題容易回答，但好的提示可以引導模型完成更複雜的任務。"
+    },
+    {
+      "id": "Q40",
+      "sequence": 40,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12202",
+      "questionHtml": "要求<strong style=\"color: blue;\">生成式 AI</strong> 扮演一個<strong style=\"color: blue;\">特定角色</strong>（例如：「假設你是一位經驗豐富的<strong style=\"color: blue;\">旅遊規劃師</strong>，請幫我規劃一個五天的東京行程」），這種技巧的主要目的是？",
+      "questionText": "要求生成式 AI 扮演一個特定角色（例如：「假設你是一位經驗豐富的旅遊規劃師，請幫我規劃一個五天的東京行程」），這種技巧的主要目的是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "讓輸出的<strong style=\"background-color: #ffff0030;\">風格</strong>、<strong style=\"color: blue;\">語氣</strong>和<strong style=\"color: blue;\">內容</strong>更<strong style=\"background-color: #ffff0030;\">符合該角色的專業</strong>或<strong style=\"color: blue;\">特點</strong>",
+          "text": "讓輸出的風格、語氣和內容更符合該角色的專業或特點",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "大幅<strong style=\"color: blue;\">縮短</strong>模型的<strong style=\"color: blue;\">回應時間</strong>",
+          "text": "大幅縮短模型的回應時間",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "強制模型只能使用<strong style=\"color: blue;\">特定來源</strong>的資料",
+          "text": "強制模型只能使用特定來源的資料",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "測試模型的<strong style=\"color: blue;\">角色扮演</strong>能力極限",
+          "text": "測試模型的角色扮演能力極限",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L12202</strong>。<strong style=\"color: blue;\">設定角色</strong>\n                        (<strong style=\"color: red;\">Role Setting</strong>) 是一種常見的<strong style=\"color: blue;\">提示技巧</strong>，透過<strong style=\"color: blue;\">賦予</strong> <strong style=\"color: purple;\">AI</strong> 一個<strong style=\"color: blue;\">明確的身份或背景</strong>，可以有效地<strong style=\"background-color: #ffff0030;\">引導</strong>其<strong style=\"color: blue;\">生成的回應</strong>在<strong style=\"color: blue;\">風格</strong>（例如，專業 vs.\n                        口語）、<strong style=\"color: blue;\">語氣</strong>（例如，熱情 vs. 嚴肅）和<strong style=\"color: blue;\">內容</strong>（例如，包含專業術語或特定觀點）上更<strong style=\"background-color: #ffff0030;\">貼近該角色的特徵</strong>，從而<strong style=\"color: blue;\">提高輸出</strong>的<strong style=\"color: blue;\">質量</strong>和<strong style=\"color: blue;\">適用性</strong>。",
+      "explanationText": "(A) 正確。參考L12202。設定角色 (Role Setting) 是一種常見的提示技巧，透過賦予 AI 一個明確的身份或背景，可以有效地引導其生成的回應在風格（例如，專業 vs. 口語）、語氣（例如，熱情 vs. 嚴肅）和內容（例如，包含專業術語或特定觀點）上更貼近該角色的特徵，從而提高輸出的質量和適用性。"
+    },
+    {
+      "id": "Q41",
+      "sequence": 41,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12202",
+      "questionHtml": "<strong style=\"color: blue;\">檢索增強生成</strong> (<strong style=\"color: purple;\">RAG</strong>) 技術流程中，第一步通常是？",
+      "questionText": "檢索增強生成 (RAG) 技術流程中，第一步通常是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">生成</strong>最終的回應",
+          "text": "生成最終的回應",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">建立</strong>或<strong style=\"color: blue;\">準備</strong>一個<strong style=\"background-color: #ffff0030;\">外部知識庫</strong>（通常轉為<strong style=\"color: blue;\">向量資料庫</strong>）",
+          "text": "建立或準備一個外部知識庫（通常轉為向量資料庫）",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "根據使用者提問進行<strong style=\"color: blue;\">資訊檢索</strong>",
+          "text": "根據使用者提問進行資訊檢索",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">微調</strong> (<strong style=\"color: red;\">Fine-tuning</strong>) <strong style=\"color: blue;\">大型語言模型</strong>",
+          "text": "微調 (Fine-tuning) 大型語言模型",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12202</strong>。<strong style=\"color: purple;\">RAG</strong>\n                        的核心在於<strong style=\"color: blue;\">利用外部知識</strong>來<strong style=\"color: blue;\">增強生成</strong>。因此，在實際運作前，<strong style=\"background-color: #ffff0030;\">首要步驟</strong>是<strong style=\"background-color: #ffff0030;\">準備好這個外部知識源</strong>。這通常涉及收集相關文件、將其處理（如分塊 <strong style=\"color: red;\">Chunking</strong>）並轉換成<strong style=\"color: blue;\">向量</strong> (<strong style=\"color: red;\">Embeddings</strong>)，然後存儲在一個<strong style=\"color: blue;\">向量資料庫</strong>中，以便後續能夠<strong style=\"color: blue;\">快速檢索</strong>。<br>\n                        (C) 是接收到使用者提問後的步驟。<br>\n                        (A) 是最後的步驟。<br>\n                        (D) <strong style=\"color: blue;\">微調</strong>是另一種技術，與<strong style=\"color: purple;\">RAG</strong>不同。",
+      "explanationText": "(B) 正確。參考L12202。RAG 的核心在於利用外部知識來增強生成。因此，在實際運作前，首要步驟是準備好這個外部知識源。這通常涉及收集相關文件、將其處理（如分塊 Chunking）並轉換成向量 (Embeddings)，然後存儲在一個向量資料庫中，以便後續能夠快速檢索。 (C) 是接收到使用者提問後的步驟。 (A) 是最後的步驟。 (D) 微調是另一種技術，與RAG不同。"
+    },
+    {
+      "id": "Q42",
+      "sequence": 42,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12202",
+      "questionHtml": "相較於<strong style=\"color: blue;\">重新訓練</strong> (<strong style=\"color: red;\">Re-Training</strong>) 整個模型，<strong style=\"color: blue;\">微調</strong> (<strong style=\"color: red;\">Fine-Tuning</strong>) 通常具有哪個<strong style=\"color: blue;\">優點</strong>？",
+      "questionText": "相較於重新訓練 (Re-Training) 整個模型，微調 (Fine-Tuning) 通常具有哪個優點？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "模型<strong style=\"color: blue;\">靈活性</strong>更高，適用範圍更廣",
+          "text": "模型靈活性更高，適用範圍更廣",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"background-color: #ffff0030;\">所需資料量</strong>和<strong style=\"background-color: #ffff0030;\">運算成本</strong>通常<strong style=\"background-color: #ffff0030;\">較低</strong>",
+          "text": "所需資料量和運算成本通常較低",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "完全不需要<strong style=\"color: blue;\">標註資料</strong>",
+          "text": "完全不需要標註資料",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "能夠徹底<strong style=\"color: blue;\">解決</strong>模型<strong style=\"color: blue;\">偏見</strong>問題",
+          "text": "能夠徹底解決模型偏見問題",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12202</strong>。<strong style=\"color: blue;\">微調</strong>是在<strong style=\"color: blue;\">預訓練模型</strong>的基礎上，使用<strong style=\"background-color: #ffff0030;\">相對少量</strong>的<strong style=\"color: blue;\">特定任務資料</strong>進行<strong style=\"color: blue;\">額外訓練</strong>。相比於<strong style=\"color: blue;\">從零開始</strong>的<strong style=\"color: blue;\">重新訓練</strong>，它利用了預訓練模型已有的<strong style=\"color: blue;\">通用知識</strong>，因此通常<strong style=\"background-color: #ffff0030;\">需要更少的數據</strong>和<strong style=\"background-color: #ffff0030;\">計算資源</strong>，<strong style=\"background-color: #ffff0030;\">成本效益更高</strong>，特別適合將<strong style=\"color: blue;\">通用模型</strong>適應到<strong style=\"color: blue;\">特定應用場景</strong>。<br>\n                        (A) <strong style=\"color: blue;\">重新訓練</strong>通常靈活性更高。<br>\n                        (C) <strong style=\"color: blue;\">微調</strong>通常仍需要<strong style=\"color: blue;\">少量標註資料</strong>。<br>\n                        (D) <strong style=\"color: blue;\">微調</strong>可能<strong style=\"color: blue;\">改善</strong>偏見，但不保證徹底解決。",
+      "explanationText": "(B) 正確。參考L12202。微調是在預訓練模型的基礎上，使用相對少量的特定任務資料進行額外訓練。相比於從零開始的重新訓練，它利用了預訓練模型已有的通用知識，因此通常需要更少的數據和計算資源，成本效益更高，特別適合將通用模型適應到特定應用場景。 (A) 重新訓練通常靈活性更高。 (C) 微調通常仍需要少量標註資料。 (D) 微調可能改善偏見，但不保證徹底解決。"
+    },
+    {
+      "id": "Q43",
+      "sequence": 43,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12202",
+      "questionHtml": "從<strong style=\"color: blue;\">效果</strong>、<strong style=\"color: blue;\">成本</strong>和<strong style=\"color: blue;\">複雜度</strong>來看，下列優化<strong style=\"color: blue;\">生成式 AI</strong> 輸出的方法，哪種通常<strong style=\"color: red;\">成本最高</strong>且<strong style=\"color: red;\">最複雜</strong>？",
+      "questionText": "從效果、成本和複雜度來看，下列優化生成式 AI 輸出的方法，哪種通常成本最高且最複雜？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "優化<strong style=\"color: blue;\">提示</strong> (<strong style=\"color: red;\">Prompt Engineering</strong>)",
+          "text": "優化提示 (Prompt Engineering)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "使用<strong style=\"color: blue;\">檢索增強生成</strong> (<strong style=\"color: purple;\">RAG</strong>)",
+          "text": "使用檢索增強生成 (RAG)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">微調</strong> (<strong style=\"color: red;\">Fine-Tuning</strong>)",
+          "text": "微調 (Fine-Tuning)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">重新訓練</strong> (<strong style=\"color: red;\">Re-Training</strong>)",
+          "text": "重新訓練 (Re-Training)",
+          "isCorrect": true
+        }
+      ],
+      "correctOption": "D",
+      "explanationHtml": "(D) 正確。參考<strong style=\"color: red;\">L12202</strong>。這四種方法的<strong style=\"color: blue;\">成本</strong>和<strong style=\"color: blue;\">複雜度</strong>大致排序如下（由低到高）：<br>\n                        1. <strong style=\"color: blue;\">提示工程</strong>: <strong style=\"color: blue;\">成本最低</strong>，主要依賴技巧。<br>\n                        2. <strong style=\"color: purple;\">RAG</strong>: 需要<strong style=\"color: blue;\">建立</strong>和<strong style=\"color: blue;\">維護知識庫</strong>，增加<strong style=\"color: blue;\">檢索</strong>步驟。<br>\n                        3. <strong style=\"color: blue;\">微調</strong>: 需要<strong style=\"color: blue;\">少量特定數據</strong>和一定的<strong style=\"color: blue;\">計算資源</strong>。<br>\n                        4. <strong style=\"color: blue;\">重新訓練</strong>: 需要<strong style=\"background-color: #ffff0030;\">大量數據</strong>和<strong style=\"background-color: #ffff0030;\">龐大的計算資源</strong>，<strong style=\"background-color: #ffff0030;\">成本最高</strong>，<strong style=\"background-color: #ffff0030;\">技術複雜度也最高</strong>。<br>\n                        因此，<strong style=\"color: blue;\">重新訓練</strong>是成本最高、最複雜的方法。",
+      "explanationText": "(D) 正確。參考L12202。這四種方法的成本和複雜度大致排序如下（由低到高）： 1. 提示工程: 成本最低，主要依賴技巧。 2. RAG: 需要建立和維護知識庫，增加檢索步驟。 3. 微調: 需要少量特定數據和一定的計算資源。 4. 重新訓練: 需要大量數據和龐大的計算資源，成本最高，技術複雜度也最高。 因此，重新訓練是成本最高、最複雜的方法。"
+    },
+    {
+      "id": "Q44",
+      "sequence": 44,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12202",
+      "questionHtml": "為了讓<strong style=\"color: blue;\">生成式 AI</strong> 針對一個<strong style=\"color: blue;\">非常專業</strong>且<strong style=\"color: blue;\">不斷更新</strong>的領域（例如<strong style=\"color: blue;\">最新法律條文</strong>）提供<strong style=\"color: blue;\">準確</strong>的回答，下列哪種方法最<strong style=\"color: blue;\">適合</strong>且<strong style=\"color: blue;\">相對有效率</strong>？",
+      "questionText": "為了讓生成式 AI 針對一個非常專業且不斷更新的領域（例如最新法律條文）提供準確的回答，下列哪種方法最適合且相對有效率？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "僅依賴<strong style=\"color: blue;\">通用大型語言模型</strong>的<strong style=\"color: blue;\">內部知識</strong>",
+          "text": "僅依賴通用大型語言模型的內部知識",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "實施<strong style=\"color: blue;\">檢索增強生成</strong> (<strong style=\"color: purple;\">RAG</strong>)，連接到<strong style=\"background-color: #ffff0030;\">最新的法律資料庫</strong>",
+          "text": "實施檢索增強生成 (RAG)，連接到最新的法律資料庫",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "對模型進行<strong style=\"color: blue;\">微調</strong>，但不更新資料庫",
+          "text": "對模型進行微調，但不更新資料庫",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "每次都<strong style=\"color: blue;\">從頭重新訓練</strong>一個法律專用模型",
+          "text": "每次都從頭重新訓練一個法律專用模型",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12202</strong>。<strong style=\"color: blue;\">通用大型語言模型</strong>的<strong style=\"color: blue;\">內部知識</strong>有<strong style=\"color: blue;\">時間滯後性</strong>，無法即時反映<strong style=\"color: blue;\">最新</strong>的專業領域變化（如新法律條文）。<strong style=\"color: blue;\">重新訓練</strong>成本過高且不切實際。<strong style=\"color: blue;\">微調</strong>雖可提升專業性，但<strong style=\"color: blue;\">知識更新</strong>仍是問題。<strong style=\"color: purple;\">RAG</strong>\n                        允許模型在<strong style=\"color: blue;\">生成回應前</strong>先從<strong style=\"background-color: #ffff0030;\">外部</strong>、可<strong style=\"background-color: #ffff0030;\">即時更新</strong>的<strong style=\"color: blue;\">知識庫</strong>（如最新的法律資料庫）<strong style=\"background-color: #ffff0030;\">檢索</strong>相關資訊，再<strong style=\"color: blue;\">結合</strong>這些資訊生成<strong style=\"color: blue;\">準確</strong>、<strong style=\"color: blue;\">基於最新事實</strong>的回答，是應對此類場景的<strong style=\"color: blue;\">理想方法</strong>。",
+      "explanationText": "(B) 正確。參考L12202。通用大型語言模型的內部知識有時間滯後性，無法即時反映最新的專業領域變化（如新法律條文）。重新訓練成本過高且不切實際。微調雖可提升專業性，但知識更新仍是問題。RAG 允許模型在生成回應前先從外部、可即時更新的知識庫（如最新的法律資料庫）檢索相關資訊，再結合這些資訊生成準確、基於最新事實的回答，是應對此類場景的理想方法。"
+    },
+    {
+      "id": "Q45",
+      "sequence": 45,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12301",
+      "questionHtml": "根據<strong style=\"color: blue;\">經濟部產業發展署</strong>的《<strong style=\"color: purple;\">AI</strong> 導入指引》，導入<strong style=\"color: purple;\">AI</strong> 的<strong style=\"color: red;\">第一步</strong>通常是？",
+      "questionText": "根據經濟部產業發展署的《AI 導入指引》，導入AI 的第一步通常是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"background-color: #ffff0030;\">問題定義</strong>與<strong style=\"background-color: #ffff0030;\">目標設定</strong>",
+          "text": "問題定義與目標設定",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">技術評估</strong>與<strong style=\"color: blue;\">解法選擇</strong>",
+          "text": "技術評估與解法選擇",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">資料盤點</strong>與<strong style=\"color: blue;\">前處理</strong>",
+          "text": "資料盤點與前處理",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">導入測試</strong>與<strong style=\"color: blue;\">驗證</strong> (<strong style=\"color: purple;\">PoC</strong>)",
+          "text": "導入測試與驗證 (PoC)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L12301</strong>。在導入任何新技術（包括<strong style=\"color: purple;\">AI</strong>）之前，<strong style=\"background-color: #ffff0030;\">最關鍵的第一步</strong>是<strong style=\"color: blue;\">明確要解決的問題</strong>（痛點）以及<strong style=\"color: blue;\">導入後期望達成的具體目標</strong>（效益）。如果連問題和目標都<strong style=\"color: blue;\">不清晰</strong>，後續的技術評估、資料準備等都可能<strong style=\"color: blue;\">偏離方向</strong>，導致導入失敗。因此，<strong style=\"background-color: #ffff0030;\">問題定義與目標設定</strong>是導入流程的<strong style=\"color: blue;\">起點</strong>。",
+      "explanationText": "(A) 正確。參考L12301。在導入任何新技術（包括AI）之前，最關鍵的第一步是明確要解決的問題（痛點）以及導入後期望達成的具體目標（效益）。如果連問題和目標都不清晰，後續的技術評估、資料準備等都可能偏離方向，導致導入失敗。因此，問題定義與目標設定是導入流程的起點。"
+    },
+    {
+      "id": "Q46",
+      "sequence": 46,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12301",
+      "questionHtml": "在<strong style=\"color: purple;\">AI</strong>導入評估的「<strong style=\"color: blue;\">資料盤點與前處理</strong>」階段，需要考慮的<strong style=\"color: red;\">主要</strong>事項<strong style=\"color: red;\">不包含</strong>下列何者？",
+      "questionText": "在AI導入評估的「資料盤點與前處理」階段，需要考慮的主要事項不包含下列何者？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "是否有<strong style=\"background-color: #ffff0030;\">足夠</strong>且<strong style=\"color: blue;\">相關</strong>的資料？",
+          "text": "是否有足夠且相關的資料？",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "資料的<strong style=\"background-color: #ffff0030;\">品質</strong>如何？是否需要<strong style=\"color: blue;\">清洗</strong>或<strong style=\"color: blue;\">標註</strong>？",
+          "text": "資料的品質如何？是否需要清洗或標註？",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "資料的<strong style=\"background-color: #ffff0030;\">取得</strong>與<strong style=\"color: blue;\">使用</strong>是否<strong style=\"color: blue;\">合規</strong>（如<strong style=\"color: blue;\">隱私保護</strong>）？",
+          "text": "資料的取得與使用是否合規（如隱私保護）？",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "最終模型的<strong style=\"background-color: #ffff0030;\">部署方式</strong>（<strong style=\"color: blue;\">雲端</strong>或<strong style=\"color: blue;\">地端</strong>）？",
+          "text": "最終模型的部署方式（雲端或地端）？",
+          "isCorrect": true
+        }
+      ],
+      "correctOption": "D",
+      "explanationHtml": "(D) 不包含。參考<strong style=\"color: red;\">L12301</strong>。<strong style=\"color: blue;\">資料盤點與前處理</strong>階段的核心關注點是<strong style=\"background-color: #ffff0030;\">資料本身</strong>，包括<strong style=\"color: blue;\">可用性</strong>（數量、相關性）、<strong style=\"color: blue;\">品質</strong>（準確性、完整性、一致性）以及<strong style=\"color: blue;\">合規性</strong>（隱私、授權）。最終模型的<strong style=\"background-color: #ffff0030;\">部署方式</strong>雖然也是導入規劃的重要環節，但它屬於<strong style=\"color: blue;\">後續的技術評估</strong>或<strong style=\"color: blue;\">部署規劃</strong>階段需要考慮的問題，而非<strong style=\"color: blue;\">資料盤點</strong>階段的<strong style=\"color: red;\">主要</strong>事項。",
+      "explanationText": "(D) 不包含。參考L12301。資料盤點與前處理階段的核心關注點是資料本身，包括可用性（數量、相關性）、品質（準確性、完整性、一致性）以及合規性（隱私、授權）。最終模型的部署方式雖然也是導入規劃的重要環節，但它屬於後續的技術評估或部署規劃階段需要考慮的問題，而非資料盤點階段的主要事項。"
+    },
+    {
+      "id": "Q47",
+      "sequence": 47,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12301",
+      "questionHtml": "<strong style=\"color: purple;\">PoC</strong> (<strong style=\"color: red;\">Proof of Concept</strong>) 在 <strong style=\"color: purple;\">AI</strong>\n                    導入流程中的主要目的是什麼？",
+      "questionText": "PoC (Proof of Concept) 在 AI 導入流程中的主要目的是什麼？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "完成<strong style=\"color: blue;\">最終產品</strong>的開發與上線",
+          "text": "完成最終產品的開發與上線",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "以<strong style=\"background-color: #ffff0030;\">小規模</strong>、<strong style=\"color: blue;\">低成本</strong>的方式<strong style=\"background-color: #ffff0030;\">驗證</strong>所選<strong style=\"color: blue;\">技術</strong>或<strong style=\"color: blue;\">方法</strong>的<strong style=\"background-color: #ffff0030;\">可行性</strong>",
+          "text": "以小規模、低成本的方式驗證所選技術或方法的可行性",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "進行<strong style=\"color: blue;\">全面的市場調查</strong>",
+          "text": "進行全面的市場調查",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "訓練公司所有員工使用 <strong style=\"color: purple;\">AI</strong>",
+          "text": "訓練公司所有員工使用 AI",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12301</strong>。<strong style=\"color: purple;\">PoC</strong>（概念驗證）是在<strong style=\"color: blue;\">正式投入大量資源</strong>進行全面開發前，進行的<strong style=\"background-color: #ffff0030;\">小規模實驗或試行</strong>。其<strong style=\"color: blue;\">主要目的</strong>是<strong style=\"background-color: #ffff0030;\">驗證</strong>核心概念、技術方案或商業模式是否<strong style=\"background-color: #ffff0030;\">可行</strong>（<strong style=\"color: red;\">Feasible</strong>）、是否能達到<strong style=\"color: blue;\">初步預期效果</strong>，並<strong style=\"color: blue;\">識別潛在風險</strong>或<strong style=\"color: blue;\">技術瓶頸</strong>。這有助於在<strong style=\"color: blue;\">早期階段</strong>以<strong style=\"color: blue;\">較低成本</strong>評估導入<strong style=\"color: purple;\">AI</strong>的可行性，避免後續資源浪費。",
+      "explanationText": "(B) 正確。參考L12301。PoC（概念驗證）是在正式投入大量資源進行全面開發前，進行的小規模實驗或試行。其主要目的是驗證核心概念、技術方案或商業模式是否可行（Feasible）、是否能達到初步預期效果，並識別潛在風險或技術瓶頸。這有助於在早期階段以較低成本評估導入AI的可行性，避免後續資源浪費。"
+    },
+    {
+      "id": "Q48",
+      "sequence": 48,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12302",
+      "questionHtml": "在進行<strong style=\"color: purple;\">AI</strong>導入規劃的「<strong style=\"color: blue;\">資源盤點與分配</strong>」時，下列哪個<strong style=\"color: red;\">不是</strong>典型的考量項目？",
+      "questionText": "在進行AI導入規劃的「資源盤點與分配」時，下列哪個不是典型的考量項目？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">人力資源</strong>（如<strong style=\"color: purple;\">AI</strong>工程師、<strong style=\"color: purple;\">PM</strong>）",
+          "text": "人力資源（如AI工程師、PM）",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">技術資源</strong>（如<strong style=\"color: purple;\">LLM</strong>平台、<strong style=\"color: purple;\">API</strong>）",
+          "text": "技術資源（如LLM平台、API）",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">財務資源</strong>（如<strong style=\"color: blue;\">預算</strong>、<strong style=\"color: blue;\">訓練成本</strong>）",
+          "text": "財務資源（如預算、訓練成本）",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "競爭對手的<strong style=\"background-color: #ffff0030;\">行銷策略</strong>",
+          "text": "競爭對手的行銷策略",
+          "isCorrect": true
+        }
+      ],
+      "correctOption": "D",
+      "explanationHtml": "(D) 不是。參考<strong style=\"color: red;\">L12302</strong>。<strong style=\"color: blue;\">資源盤點與分配</strong>主要關注的是<strong style=\"color: blue;\">執行 AI\n                            專案所需</strong>的<strong style=\"background-color: #ffff0030;\">內部</strong>或<strong style=\"color: blue;\">可取得</strong>的<strong style=\"color: blue;\">資源</strong>，包括<strong style=\"color: blue;\">人</strong>（團隊技能）、<strong style=\"color: blue;\">物</strong>（硬體、軟體、平台）、<strong style=\"color: blue;\">財</strong>（預算）、<strong style=\"color: blue;\">數據</strong>等。競爭對手的<strong style=\"color: blue;\">行銷策略</strong>雖然可能影響<strong style=\"color: blue;\">整體商業目標</strong>的設定，但<strong style=\"color: red;\">不屬於</strong>執行專案所需資源的<strong style=\"color: blue;\">直接盤點</strong>範圍。",
+      "explanationText": "(D) 不是。參考L12302。資源盤點與分配主要關注的是執行 AI 專案所需的內部或可取得的資源，包括人（團隊技能）、物（硬體、軟體、平台）、財（預算）、數據等。競爭對手的行銷策略雖然可能影響整體商業目標的設定，但不屬於執行專案所需資源的直接盤點範圍。"
+    },
+    {
+      "id": "Q49",
+      "sequence": 49,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12302",
+      "questionHtml": "在評估<strong style=\"color: purple;\">AI</strong>解決方案的「<strong style=\"color: blue;\">可落地性</strong> (<strong style=\"color: red;\">Feasibility</strong>)」時，主要考量的是？",
+      "questionText": "在評估AI解決方案的「可落地性 (Feasibility)」時，主要考量的是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "該<strong style=\"color: purple;\">AI</strong>技術是否為<strong style=\"color: blue;\">全球最新</strong>",
+          "text": "該AI技術是否為全球最新",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "團隊是否具備<strong style=\"background-color: #ffff0030;\">導入</strong>和<strong style=\"color: blue;\">維運</strong>該技術的<strong style=\"background-color: #ffff0030;\">能力</strong>，以及<strong style=\"color: blue;\">資料</strong>等<strong style=\"color: blue;\">客觀條件</strong>是否<strong style=\"color: blue;\">穩定</strong>",
+          "text": "團隊是否具備導入和維運該技術的能力，以及資料等客觀條件是否穩定",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: purple;\">AI</strong>模型<strong style=\"color: blue;\">預測結果</strong>是否<strong style=\"color: blue;\">每次都 100% 正確</strong>",
+          "text": "AI模型預測結果是否每次都 100% 正確",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "使用者是否<strong style=\"color: blue;\">完全不需要</strong>進行任何<strong style=\"color: blue;\">操作</strong>",
+          "text": "使用者是否完全不需要進行任何操作",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12302</strong>。<strong style=\"color: blue;\">可落地性</strong>評估的是將<strong style=\"color: purple;\">AI</strong>解決方案<strong style=\"color: blue;\">實際應用</strong>到<strong style=\"color: blue;\">業務場景</strong>中的<strong style=\"background-color: #ffff0030;\">可行程度</strong>。這不僅涉及<strong style=\"color: blue;\">技術本身</strong>的成熟度，更重要的是考量<strong style=\"color: blue;\">執行團隊</strong>是否具備<strong style=\"background-color: #ffff0030;\">相應的技能</strong>來<strong style=\"color: blue;\">開發、部署、整合</strong>和<strong style=\"color: blue;\">維護</strong>該系統，以及所需的<strong style=\"color: blue;\">數據來源</strong>是否<strong style=\"color: blue;\">穩定可靠</strong>、<strong style=\"color: blue;\">基礎設施</strong>是否<strong style=\"color: blue;\">支持</strong>等<strong style=\"background-color: #ffff0030;\">客觀條件</strong>。",
+      "explanationText": "(B) 正確。參考L12302。可落地性評估的是將AI解決方案實際應用到業務場景中的可行程度。這不僅涉及技術本身的成熟度，更重要的是考量執行團隊是否具備相應的技能來開發、部署、整合和維護該系統，以及所需的數據來源是否穩定可靠、基礎設施是否支持等客觀條件。"
+    },
+    {
+      "id": "Q50",
+      "sequence": 50,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12302",
+      "questionHtml": "在選擇<strong style=\"color: purple;\">AI</strong>導入方案時，比較<strong style=\"color: purple;\">AI</strong>與<strong style=\"color: purple;\">RPA</strong> (<strong style=\"color: blue;\">機器人流程自動化</strong>) 或<strong style=\"color: blue;\">傳統統計模型</strong>等<strong style=\"color: blue;\">替代方案</strong>，主要是為了評估？",
+      "questionText": "在選擇AI導入方案時，比較AI與RPA (機器人流程自動化) 或傳統統計模型等替代方案，主要是為了評估？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: purple;\">AI</strong>方案的<strong style=\"color: blue;\">成本</strong>是否<strong style=\"color: blue;\">最低</strong>",
+          "text": "AI方案的成本是否最低",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: purple;\">AI</strong>方案的<strong style=\"color: blue;\">開發時間</strong>是否<strong style=\"color: blue;\">最短</strong>",
+          "text": "AI方案的開發時間是否最短",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: purple;\">AI</strong>方案是否為<strong style=\"background-color: #ffff0030;\">最適合</strong>解決<strong style=\"color: blue;\">當前問題</strong>的<strong style=\"color: blue;\">方法</strong>",
+          "text": "AI方案是否為最適合解決當前問題的方法",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: purple;\">AI</strong>方案是否使用了<strong style=\"color: blue;\">最多樣</strong>的<strong style=\"color: blue;\">演算法</strong>",
+          "text": "AI方案是否使用了最多樣的演算法",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12302</strong>。比較<strong style=\"color: blue;\">替代方案</strong>的<strong style=\"color: blue;\">目的</strong>不是單純追求最新技術或最低成本，而是要<strong style=\"color: blue;\">客觀評估</strong>哪種方法<strong style=\"background-color: #ffff0030;\">最能有效</strong>且<strong style=\"background-color: #ffff0030;\">高效地解決</strong>當前面臨的<strong style=\"color: blue;\">具體業務問題</strong>或<strong style=\"color: blue;\">痛點</strong>。例如，如果只是<strong style=\"color: blue;\">重複性</strong>的<strong style=\"color: blue;\">規則化操作</strong>，<strong style=\"color: purple;\">RPA</strong> 可能比 <strong style=\"color: purple;\">AI</strong>\n                        更適合；如果問題可以透過<strong style=\"color: blue;\">簡單的統計分析</strong>解決，則無需引入複雜的 <strong style=\"color: purple;\">AI</strong> 模型。選擇<strong style=\"background-color: #ffff0030;\">最適合</strong> (<strong style=\"color: red;\">Most\n                            Suitable</strong>) 的工具才是關鍵。",
+      "explanationText": "(C) 正確。參考L12302。比較替代方案的目的不是單純追求最新技術或最低成本，而是要客觀評估哪種方法最能有效且高效地解決當前面臨的具體業務問題或痛點。例如，如果只是重複性的規則化操作，RPA 可能比 AI 更適合；如果問題可以透過簡單的統計分析解決，則無需引入複雜的 AI 模型。選擇最適合 (Most Suitable) 的工具才是關鍵。"
+    },
+    {
+      "id": "Q51",
+      "sequence": 51,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12303",
+      "questionHtml": "<strong style=\"color: blue;\">生成式 AI</strong> 模型基於<strong style=\"color: blue;\">帶有偏見的訓練資料</strong>，可能導致其生成<strong style=\"color: blue;\">歧視性</strong>或<strong style=\"color: blue;\">刻板印象</strong>的內容，這屬於哪種風險？",
+      "questionText": "生成式 AI 模型基於帶有偏見的訓練資料，可能導致其生成歧視性或刻板印象的內容，這屬於哪種風險？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">倫理風險</strong> (<strong style=\"color: red;\">Ethical Risk</strong>)",
+          "text": "倫理風險 (Ethical Risk)",
+          "isCorrect": true
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">資安風險</strong> (<strong style=\"color: red;\">Security Risk</strong>)",
+          "text": "資安風險 (Security Risk)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">合規性風險</strong> (<strong style=\"color: red;\">Compliance Risk</strong>)",
+          "text": "合規性風險 (Compliance Risk)",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">技術風險</strong> (<strong style=\"color: red;\">Technical Risk</strong>)",
+          "text": "技術風險 (Technical Risk)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "A",
+      "explanationHtml": "(A) 正確。參考<strong style=\"color: red;\">L12303</strong>。<strong style=\"color: blue;\">偏見</strong>\n                        (<strong style=\"color: red;\">Bias</strong>) 和<strong style=\"color: blue;\">歧視</strong> (<strong style=\"color: red;\">Discrimination</strong>) 是<strong style=\"color: purple;\">AI</strong>應用中重要的<strong style=\"background-color: #ffff0030;\">倫理考量</strong>。當模型的訓練資料<strong style=\"color: blue;\">反映</strong>了現實世界中存在的<strong style=\"color: blue;\">偏見</strong>時，模型很可能會<strong style=\"color: blue;\">學習</strong>並<strong style=\"color: blue;\">放大</strong>這些偏見，導致其<strong style=\"color: blue;\">生成</strong>的內容或做出的<strong style=\"color: blue;\">決策</strong>帶有<strong style=\"color: blue;\">不公平</strong>或<strong style=\"color: blue;\">歧視性</strong>，這屬於<strong style=\"background-color: #ffff0030;\">倫理風險</strong>的範疇。",
+      "explanationText": "(A) 正確。參考L12303。偏見 (Bias) 和歧視 (Discrimination) 是AI應用中重要的倫理考量。當模型的訓練資料反映了現實世界中存在的偏見時，模型很可能會學習並放大這些偏見，導致其生成的內容或做出的決策帶有不公平或歧視性，這屬於倫理風險的範疇。"
+    },
+    {
+      "id": "Q52",
+      "sequence": 52,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12303",
+      "questionHtml": "駭客透過<strong style=\"color: blue;\">精心設計</strong>的<strong style=\"color: blue;\">提示</strong> (<strong style=\"color: red;\">Prompt</strong>)，誘導<strong style=\"color: blue;\">大型語言模型</strong> (<strong style=\"color: purple;\">LLM</strong>) <strong style=\"color: blue;\">繞過安全限制</strong>，生成<strong style=\"color: blue;\">惡意程式碼</strong>或<strong style=\"color: blue;\">有害內容</strong>，這種攻擊手法稱為？",
+      "questionText": "駭客透過精心設計的提示 (Prompt)，誘導大型語言模型 (LLM) 繞過安全限制，生成惡意程式碼或有害內容，這種攻擊手法稱為？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">模型反推</strong> (<strong style=\"color: red;\">Model Inversion</strong>)",
+          "text": "模型反推 (Model Inversion)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">數據外洩</strong> (<strong style=\"color: red;\">Data Leakage</strong>)",
+          "text": "數據外洩 (Data Leakage)",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">提示注入</strong> (<strong style=\"color: red;\">Prompt Injection</strong>)",
+          "text": "提示注入 (Prompt Injection)",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">模型偏見</strong> (<strong style=\"color: red;\">Model Bias</strong>)",
+          "text": "模型偏見 (Model Bias)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12303</strong>。<strong style=\"color: blue;\">提示注入</strong>是一種針對<strong style=\"color: blue;\">大型語言模型</strong>的<strong style=\"color: blue;\">特定攻擊手法</strong>，攻擊者透過<strong style=\"background-color: #ffff0030;\">巧妙地構造輸入提示</strong>，來<strong style=\"color: blue;\">操縱</strong>或<strong style=\"color: blue;\">欺騙</strong>模型，使其<strong style=\"background-color: #ffff0030;\">忽略</strong>原有的<strong style=\"color: blue;\">安全指示</strong>或<strong style=\"color: blue;\">行為準則</strong>，執行<strong style=\"color: blue;\">非預期</strong>的操作，例如生成<strong style=\"color: blue;\">有害內容</strong>、洩露<strong style=\"color: blue;\">敏感資訊</strong>或執行<strong style=\"color: blue;\">惡意指令</strong>。",
+      "explanationText": "(C) 正確。參考L12303。提示注入是一種針對大型語言模型的特定攻擊手法，攻擊者透過巧妙地構造輸入提示，來操縱或欺騙模型，使其忽略原有的安全指示或行為準則，執行非預期的操作，例如生成有害內容、洩露敏感資訊或執行惡意指令。"
+    },
+    {
+      "id": "Q53",
+      "sequence": 53,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12303",
+      "questionHtml": "在<strong style=\"color: purple;\">AI</strong>風險管理的<strong style=\"color: purple;\">RMF</strong>（概念類似）流程中，「<strong style=\"color: red;\">Mitigate</strong>」階段的主要活動是？",
+      "questionText": "在AI風險管理的RMF（概念類似）流程中，「Mitigate」階段的主要活動是？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">找出</strong>所有可能的風險點",
+          "text": "找出所有可能的風險點",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">評估</strong>風險發生的可能性與影響",
+          "text": "評估風險發生的可能性與影響",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "採取<strong style=\"background-color: #ffff0030;\">具體措施</strong>（技術或管理手段）來<strong style=\"background-color: #ffff0030;\">降低</strong>已識別風險的<strong style=\"color: blue;\">可能性</strong>或<strong style=\"color: blue;\">衝擊</strong>",
+          "text": "採取具體措施（技術或管理手段）來降低已識別風險的可能性或衝擊",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">持續監控</strong>風險狀況並<strong style=\"color: blue;\">回報</strong>",
+          "text": "持續監控風險狀況並回報",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12303</strong>。風險管理流程通常包含<strong style=\"color: blue;\">識別</strong>(<strong style=\"color: red;\">Identify</strong>)、<strong style=\"color: blue;\">評估</strong>(<strong style=\"color: red;\">Assess</strong>)、<strong style=\"color: blue;\">處理/降低</strong>(<strong style=\"color: red;\">Treat/Mitigate</strong>)、<strong style=\"color: blue;\">監控</strong>(<strong style=\"color: red;\">Monitor</strong>) 等階段。「<strong style=\"color: red;\">Mitigate</strong>」階段的<strong style=\"color: blue;\">核心</strong>就是針對<strong style=\"color: blue;\">評估後</strong>認為<strong style=\"color: blue;\">需要處理</strong>的風險，<strong style=\"background-color: #ffff0030;\">制定</strong>並<strong style=\"background-color: #ffff0030;\">實施</strong>具體的<strong style=\"color: blue;\">應對措施</strong>，例如<strong style=\"color: blue;\">技術控制</strong>（加入過濾器）、<strong style=\"color: blue;\">流程改進</strong>（加強審核）、<strong style=\"color: blue;\">人員培訓</strong>等，目的是將風險<strong style=\"background-color: #ffff0030;\">降低</strong>到可接受的水平。",
+      "explanationText": "(C) 正確。參考L12303。風險管理流程通常包含識別(Identify)、評估(Assess)、處理/降低(Treat/Mitigate)、監控(Monitor) 等階段。「Mitigate」階段的核心就是針對評估後認為需要處理的風險，制定並實施具體的應對措施，例如技術控制（加入過濾器）、流程改進（加強審核）、人員培訓等，目的是將風險降低到可接受的水平。"
+    },
+    {
+      "id": "Q54",
+      "sequence": 54,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12303",
+      "questionHtml": "使用<strong style=\"color: blue;\">基於人類回饋的強化學習</strong> (<strong style=\"color: purple;\">RLHF</strong>) 來訓練<strong style=\"color: blue;\">大型語言模型</strong>，使其行為更符合人類期望，這屬於<strong style=\"color: purple;\">AI</strong>風險管理中的哪種因應作法？",
+      "questionText": "使用基於人類回饋的強化學習 (RLHF) 來訓練大型語言模型，使其行為更符合人類期望，這屬於AI風險管理中的哪種因應作法？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">加入內容過濾器</strong> (<strong style=\"color: red;\">Content Filter</strong>)",
+          "text": "加入內容過濾器 (Content Filter)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">實施模型對齊</strong> (<strong style=\"color: red;\">Alignment</strong>)",
+          "text": "實施模型對齊 (Alignment)",
+          "isCorrect": true
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"color: blue;\">匿名化與脫敏處理</strong>",
+          "text": "匿名化與脫敏處理",
+          "isCorrect": false
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">建立問責機制</strong> (<strong style=\"color: red;\">Accountability</strong>)",
+          "text": "建立問責機制 (Accountability)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "B",
+      "explanationHtml": "(B) 正確。參考<strong style=\"color: red;\">L12303</strong>。<strong style=\"color: blue;\">模型對齊</strong>\n                        (<strong style=\"color: red;\">Alignment</strong>) 指的是<strong style=\"color: blue;\">調整</strong>或<strong style=\"color: blue;\">訓練</strong> <strong style=\"color: purple;\">AI</strong> 模型，使其<strong style=\"color: blue;\">目標</strong>、<strong style=\"color: blue;\">行為</strong>和<strong style=\"color: blue;\">價值觀</strong>與<strong style=\"background-color: #ffff0030;\">人類的意圖和價值觀保持一致</strong>，以<strong style=\"color: blue;\">減少有害</strong>或<strong style=\"color: blue;\">非預期</strong>的輸出。<strong style=\"color: purple;\">RLHF</strong> 正是實現<strong style=\"color: blue;\">模型對齊</strong>的<strong style=\"color: blue;\">關鍵技術</strong>之一，透過<strong style=\"color: blue;\">人類的回饋</strong>來<strong style=\"color: blue;\">引導</strong>模型的學習方向。",
+      "explanationText": "(B) 正確。參考L12303。模型對齊 (Alignment) 指的是調整或訓練 AI 模型，使其目標、行為和價值觀與人類的意圖和價值觀保持一致，以減少有害或非預期的輸出。RLHF 正是實現模型對齊的關鍵技術之一，透過人類的回饋來引導模型的學習方向。"
+    },
+    {
+      "id": "Q55",
+      "sequence": 55,
+      "year": "114",
+      "subject": "AI 應用規劃師(初級)",
+      "syllabus": "L12303",
+      "questionHtml": "為了保護使用者隱私，在將資料用於訓練<strong style=\"color: purple;\">AI</strong>模型前，將資料中的<strong style=\"color: blue;\">個人可識別資訊</strong>（如姓名、身分證號）<strong style=\"color: blue;\">移除</strong>或<strong style=\"color: blue;\">替換</strong>，這種做法屬於？",
+      "questionText": "為了保護使用者隱私，在將資料用於訓練AI模型前，將資料中的個人可識別資訊（如姓名、身分證號）移除或替換，這種做法屬於？",
+      "mediaHtml": [],
+      "options": [
+        {
+          "key": "A",
+          "html": "<strong style=\"color: blue;\">模型對齊</strong> (<strong style=\"color: red;\">Alignment</strong>)",
+          "text": "模型對齊 (Alignment)",
+          "isCorrect": false
+        },
+        {
+          "key": "B",
+          "html": "<strong style=\"color: blue;\">提示注入防禦</strong>",
+          "text": "提示注入防禦",
+          "isCorrect": false
+        },
+        {
+          "key": "C",
+          "html": "<strong style=\"background-color: #ffff0030;\">匿名化</strong> (<strong style=\"color: red;\">Anonymization</strong>) 或<strong style=\"color: blue;\">脫敏處理</strong>",
+          "text": "匿名化 (Anonymization) 或脫敏處理",
+          "isCorrect": true
+        },
+        {
+          "key": "D",
+          "html": "<strong style=\"color: blue;\">內容過濾</strong> (<strong style=\"color: red;\">Content Filtering</strong>)",
+          "text": "內容過濾 (Content Filtering)",
+          "isCorrect": false
+        }
+      ],
+      "correctOption": "C",
+      "explanationHtml": "(C) 正確。參考<strong style=\"color: red;\">L12303</strong>。<strong style=\"color: blue;\">匿名化</strong>或<strong style=\"color: blue;\">脫敏處理</strong>是重要的<strong style=\"color: blue;\">數據隱私保護</strong>技術，其<strong style=\"color: blue;\">目的</strong>是在<strong style=\"color: blue;\">保留數據可用性</strong>的前提下，<strong style=\"background-color: #ffff0030;\">移除</strong>或<strong style=\"background-color: #ffff0030;\">修改</strong>數據中可能<strong style=\"background-color: #ffff0030;\">直接或間接識別到個人身份</strong>的資訊（<strong style=\"color: red;\">PII</strong>, <strong style=\"color: red;\">Personally Identifiable\n                            Information</strong>），以<strong style=\"color: blue;\">降低隱私洩露</strong>的風險。<br>(A)\n                        是調整模型行為符合人類價值觀。<br>(B) 是防禦特定攻擊手法。<br>(D) 是過濾模型輸出內容。",
+      "explanationText": "(C) 正確。參考L12303。匿名化或脫敏處理是重要的數據隱私保護技術，其目的是在保留數據可用性的前提下，移除或修改數據中可能直接或間接識別到個人身份的資訊（PII, Personally Identifiable Information），以降低隱私洩露的風險。(A) 是調整模型行為符合人類價值觀。(B) 是防禦特定攻擊手法。(D) 是過濾模型輸出內容。"
+    }
+  ]
+}
