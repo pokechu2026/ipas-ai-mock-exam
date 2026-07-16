@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>iPAS AI 應用規劃師正式考試版</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body data-page="exam">
+    <div class="shell shell-exam">
+      <aside class="sidebar panel">
+        <div class="panel__label">正式考試版</div>
+        <h1>iPAS AI 應用規劃師</h1>
+        <p class="sidebar__text">請在倒數時間內完成 55 題。交卷後將自動跳轉至解答版頁面。</p>
+
+        <div class="stats-card">
+          <div>
+            <span class="stats-card__label">剩餘時間</span>
+            <strong id="timerDisplay">60:00</strong>
+          </div>
+          <div>
+            <span class="stats-card__label">目前進度</span>
+            <strong id="progressDisplay">0 / 55</strong>
+          </div>
+        </div>
+
+        <div class="meter">
+          <div class="meter__bar" id="progressBar"></div>
+        </div>
+
+        <div class="legend">
+          <span><i class="dot dot--answered"></i>已作答</span>
+          <span><i class="dot dot--flagged"></i>已標記</span>
+          <span><i class="dot dot--current"></i>目前題目</span>
+        </div>
+
+        <div class="palette" id="questionPalette"></div>
+
+        <div class="sidebar__actions">
+          <button class="button button--ghost" id="resetExamButton" type="button">重新開始</button>
+          <button class="button button--primary" id="submitExamButton" type="button">交卷並查看解答</button>
+        </div>
+      </aside>
+
+      <main class="exam-main">
+        <section class="panel exam-card">
+          <div class="exam-card__top">
+            <div>
+              <div class="panel__label" id="questionMeta">命題大綱</div>
+              <h2 id="questionHeading">載入題目中...</h2>
+            </div>
+            <button class="button button--chip" id="flagButton" type="button">標記此題</button>
+          </div>
+
+          <div class="question-media" id="questionMedia"></div>
+          <div class="question-richtext" id="questionContent"></div>
+
+          <form id="optionsForm" class="options-list"></form>
+
+          <div class="exam-nav">
+            <button class="button button--ghost" id="prevButton" type="button">上一題</button>
+            <div class="exam-nav__center" id="navStatus">第 1 題 / 共 55 題</div>
+            <button class="button button--secondary" id="nextButton" type="button">下一題</button>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./assets/site.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>iPAS AI 應用規劃師模擬考</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body data-page="home">
+    <div class="shell shell-home">
+      <header class="hero">
+        <div class="hero__eyebrow">iPAS AI 應用規劃師教材</div>
+        <h1>模擬考新版入口</h1>
+        <p class="hero__lead">
+          這個版本把練習流程拆成正式考試與解答檢討兩條路徑。學生可以先進入擬真作答，交卷後再自動跳到全解答頁面。
+        </p>
+        <div class="hero__meta">
+          <span>共 55 題</span>
+          <span>14 個命題大綱</span>
+          <span>支援 GitHub Pages / Notion 嵌入</span>
+        </div>
+      </header>
+
+      <main class="home-grid">
+        <section class="panel feature-panel">
+          <div class="panel__label">學員模式</div>
+          <h2>正式考試版</h2>
+          <p>
+            單題作答、倒數計時、題號總覽與未答提醒。交卷後會直接帶學生進入完整解答頁，保留剛剛的作答紀錄。
+          </p>
+          <ul class="feature-list">
+            <li>擬真答題介面</li>
+            <li>可標記稍後回看題目</li>
+            <li>交卷後自動跳轉檢討頁</li>
+          </ul>
+          <div class="panel__actions">
+            <a class="button button--primary" href="./exam.html">開始正式考試</a>
+          </div>
+        </section>
+
+        <section class="panel feature-panel feature-panel--warm">
+          <div class="panel__label">教師 / 解答模式</div>
+          <h2>解答版</h2>
+          <p>
+            直接開啟完整答案與解析，適合課堂講解、複習總整理，或讓學生交卷後立即核對每一題。
+          </p>
+          <ul class="feature-list">
+            <li>答案全開</li>
+            <li>依命題大綱快速瀏覽</li>
+            <li>保留學生作答結果比對</li>
+          </ul>
+          <div class="panel__actions">
+            <a class="button button--secondary" href="./review.html?mode=answer-key">開啟解答版</a>
+          </div>
+        </section>
+      </main>
+
+      <section class="panel summary-panel">
+        <div>
+          <div class="panel__label">使用建議</div>
+          <h2>推薦教學流程</h2>
+        </div>
+        <div class="flow-steps">
+          <div class="flow-step">
+            <span class="flow-step__number">01</span>
+            <strong>先考試</strong>
+            <p>讓學員以正式考試版完成整份模擬考，不先看答案。</p>
+          </div>
+          <div class="flow-step">
+            <span class="flow-step__number">02</span>
+            <strong>自動檢討</strong>
+            <p>交卷後直接跳到解答版，馬上看到對錯、分數與完整解析。</p>
+          </div>
+          <div class="flow-step">
+            <span class="flow-step__number">03</span>
+            <strong>課堂講解</strong>
+            <p>老師可直接分享解答版網址，投放在 Notion 或投影片中講解。</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script src="./assets/site.js" defer></script>
+  </body>
+</html>
