@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>iPAS AI 應用規劃師解答版</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body data-page="review">
+    <div class="shell shell-review">
+      <header class="review-header panel">
+        <div>
+          <div class="panel__label" id="reviewModeLabel">解答版</div>
+          <h1>模擬考作答解析</h1>
+          <p id="reviewSummaryText">載入作答紀錄中...</p>
+        </div>
+        <div class="review-header__actions">
+          <a class="button button--ghost" href="./index.html">回到首頁</a>
+          <a class="button button--secondary" href="./exam.html">再考一次</a>
+        </div>
+      </header>
+
+      <section class="panel score-panel" id="scorePanel">
+        <div class="score-panel__item">
+          <span>總題數</span>
+          <strong id="scoreTotal">55</strong>
+        </div>
+        <div class="score-panel__item">
+          <span>答對題數</span>
+          <strong id="scoreCorrect">0</strong>
+        </div>
+        <div class="score-panel__item">
+          <span>正確率</span>
+          <strong id="scoreRate">0%</strong>
+        </div>
+        <div class="score-panel__item">
+          <span>未作答</span>
+          <strong id="scoreBlank">0</strong>
+        </div>
+      </section>
+
+      <section class="panel filter-panel">
+        <label>
+          命題大綱
+          <select id="reviewSyllabusFilter"></select>
+        </label>
+        <label>
+          顯示條件
+          <select id="reviewStatusFilter">
+            <option value="all">全部題目</option>
+            <option value="wrong">只看答錯</option>
+            <option value="blank">只看未作答</option>
+            <option value="correct">只看答對</option>
+          </select>
+        </label>
+      </section>
+
+      <main class="review-list" id="reviewList"></main>
+    </div>
+
+    <script src="./assets/site.js" defer></script>
+  </body>
+</html>
